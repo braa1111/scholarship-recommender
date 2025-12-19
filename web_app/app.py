@@ -245,4 +245,4 @@ if __name__ == '__main__':
     print("🌐 Starting Scholarship Recommender System...")
     print("📚 Open: http://127.0.0.1:5000")
     print("⏹️  Press Ctrl+C to stop the server")
-    app.run(debug=True, host='127.0.0.1', port=8000)
+    app.run(debug=True, host='127.0.0.1', port=10000)
