@@ -1,0 +1,14 @@
+# Virtual Environment
+scholarship_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store

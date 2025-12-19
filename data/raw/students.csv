@@ -1,0 +1,1001 @@
+student_id,name,major,gpa,country,interests,background,study_level
+STU0001,Student 1,Education,2.42,India,"Business Management, Creative Arts, Web Development",Background description for student 1,Undergraduate
+STU0002,Student 2,Law,3.05,South Africa,"Web Development, Medical Research, AI",Background description for student 2,PhD
+STU0003,Student 3,Law,3.85,UK,"Creative Arts, Data Analysis, Legal Studies",Background description for student 3,Masters
+STU0004,Student 4,Medicine,2.97,Canada,"Business Management, Education Technology, Machine Learning",Background description for student 4,Undergraduate
+STU0005,Student 5,Data Science,2.88,Australia,"Machine Learning, Environmental Conservation, Legal Studies",Background description for student 5,PhD
+STU0006,Student 6,Data Science,3.33,Australia,"Business Management, Legal Studies, Data Analysis",Background description for student 6,Undergraduate
+STU0007,Student 7,Computer Science,2.67,South Africa,"Environmental Conservation, Data Analysis, Creative Arts",Background description for student 7,Masters
+STU0008,Student 8,Education,2.67,USA,"Machine Learning, Creative Arts, Legal Studies",Background description for student 8,PhD
+STU0009,Student 9,Engineering,2.75,Japan,"Education Technology, Business Management, Web Development",Background description for student 9,Masters
+STU0010,Student 10,Business,3.09,Canada,"Data Analysis, AI, Business Management",Background description for student 10,PhD
+STU0011,Student 11,Arts,2.69,India,"Business Management, Web Development, Education Technology",Background description for student 11,Masters
+STU0012,Student 12,Education,3.3,UK,"Data Analysis, Environmental Conservation, Education Technology",Background description for student 12,Masters
+STU0013,Student 13,Data Science,3.6,Japan,"Environmental Conservation, Medical Research, Business Management",Background description for student 13,PhD
+STU0014,Student 14,Business,2.99,South Africa,"Education Technology, Web Development, Environmental Conservation",Background description for student 14,Undergraduate
+STU0015,Student 15,Education,3.41,UAE,"Business Management, Machine Learning, Education Technology",Background description for student 15,PhD
+STU0016,Student 16,Computer Science,2.69,Japan,"Legal Studies, Environmental Conservation, Machine Learning",Background description for student 16,Masters
+STU0017,Student 17,Arts,4.01,South Africa,"AI, Creative Arts, Environmental Conservation",Background description for student 17,PhD
+STU0018,Student 18,Business,3.62,India,"Business Management, Education Technology, Creative Arts",Background description for student 18,Undergraduate
+STU0019,Student 19,Computer Science,3.28,South Africa,"Education Technology, Creative Arts, Business Management",Background description for student 19,PhD
+STU0020,Student 20,Education,2.8,USA,"Creative Arts, AI, Education Technology",Background description for student 20,PhD
+STU0021,Student 21,Data Science,3.88,UK,"Machine Learning, Education Technology, Legal Studies",Background description for student 21,PhD
+STU0022,Student 22,Computer Science,3.23,UAE,"Medical Research, Machine Learning, Creative Arts",Background description for student 22,PhD
+STU0023,Student 23,Law,3.12,Canada,"Medical Research, Environmental Conservation, Web Development",Background description for student 23,PhD
+STU0024,Student 24,Medicine,2.72,Japan,"Web Development, Creative Arts, Education Technology",Background description for student 24,Masters
+STU0025,Student 25,Business,3.27,UK,"Data Analysis, Environmental Conservation, Creative Arts",Background description for student 25,PhD
+STU0026,Student 26,Data Science,3.58,UK,"Machine Learning, AI, Creative Arts",Background description for student 26,Masters
+STU0027,Student 27,Arts,3.14,Germany,"Legal Studies, Creative Arts, Business Management",Background description for student 27,PhD
+STU0028,Student 28,Business,2.52,UK,"Web Development, Legal Studies, Business Management",Background description for student 28,Undergraduate
+STU0029,Student 29,Arts,3.33,Japan,"Machine Learning, Legal Studies, Medical Research",Background description for student 29,PhD
+STU0030,Student 30,Medicine,3.4,USA,"Education Technology, Machine Learning, Data Analysis",Background description for student 30,PhD
+STU0031,Student 31,Education,2.7,Australia,"Legal Studies, Machine Learning, Medical Research",Background description for student 31,PhD
+STU0032,Student 32,Computer Science,2.54,Germany,"Data Analysis, Medical Research, Education Technology",Background description for student 32,Masters
+STU0033,Student 33,Education,3.07,India,"Education Technology, Medical Research, Environmental Conservation",Background description for student 33,Masters
+STU0034,Student 34,Environmental Science,3.77,USA,"Legal Studies, Machine Learning, Business Management",Background description for student 34,Undergraduate
+STU0035,Student 35,Engineering,2.55,South Africa,"Web Development, Machine Learning, Business Management",Background description for student 35,Masters
+STU0036,Student 36,Computer Science,3.25,Germany,"AI, Creative Arts, Web Development",Background description for student 36,PhD
+STU0037,Student 37,Medicine,2.61,Canada,"Machine Learning, Data Analysis, Creative Arts",Background description for student 37,PhD
+STU0038,Student 38,Arts,3.52,Germany,"Medical Research, Web Development, AI",Background description for student 38,PhD
+STU0039,Student 39,Engineering,3.84,Canada,"Machine Learning, Business Management, Legal Studies",Background description for student 39,Undergraduate
+STU0040,Student 40,Engineering,3.66,USA,"Environmental Conservation, Business Management, Machine Learning",Background description for student 40,Undergraduate
+STU0041,Student 41,Medicine,3.73,Brazil,"Legal Studies, Education Technology, Environmental Conservation",Background description for student 41,Masters
+STU0042,Student 42,Business,2.96,India,"Creative Arts, Education Technology, Web Development",Background description for student 42,PhD
+STU0043,Student 43,Engineering,2.45,USA,"AI, Education Technology, Legal Studies",Background description for student 43,Masters
+STU0044,Student 44,Business,2.96,Germany,"AI, Legal Studies, Business Management",Background description for student 44,Undergraduate
+STU0045,Student 45,Computer Science,3.0,Germany,"Data Analysis, AI, Machine Learning",Background description for student 45,Undergraduate
+STU0046,Student 46,Environmental Science,2.16,USA,"Legal Studies, Data Analysis, Business Management",Background description for student 46,Undergraduate
+STU0047,Student 47,Data Science,3.11,USA,"Business Management, AI, Machine Learning",Background description for student 47,Masters
+STU0048,Student 48,Computer Science,3.02,India,"Legal Studies, Machine Learning, Creative Arts",Background description for student 48,PhD
+STU0049,Student 49,Business,2.76,Germany,"Machine Learning, Medical Research, AI",Background description for student 49,PhD
+STU0050,Student 50,Arts,2.6,Germany,"Business Management, Web Development, Legal Studies",Background description for student 50,Undergraduate
+STU0051,Student 51,Environmental Science,3.14,UAE,"AI, Machine Learning, Legal Studies",Background description for student 51,Masters
+STU0052,Student 52,Education,3.98,UK,"Business Management, AI, Legal Studies",Background description for student 52,PhD
+STU0053,Student 53,Education,3.92,Australia,"Data Analysis, Creative Arts, Education Technology",Background description for student 53,PhD
+STU0054,Student 54,Medicine,2.74,Japan,"Creative Arts, Education Technology, Business Management",Background description for student 54,PhD
+STU0055,Student 55,Medicine,2.34,Australia,"Medical Research, Creative Arts, Environmental Conservation",Background description for student 55,PhD
+STU0056,Student 56,Law,2.7,UAE,"Creative Arts, Web Development, Data Analysis",Background description for student 56,Masters
+STU0057,Student 57,Education,2.92,USA,"Data Analysis, Education Technology, AI",Background description for student 57,PhD
+STU0058,Student 58,Environmental Science,3.32,Brazil,"AI, Web Development, Medical Research",Background description for student 58,Masters
+STU0059,Student 59,Engineering,3.84,Australia,"Business Management, Creative Arts, Legal Studies",Background description for student 59,Masters
+STU0060,Student 60,Education,3.72,India,"Business Management, Legal Studies, AI",Background description for student 60,Undergraduate
+STU0061,Student 61,Education,2.42,Canada,"Business Management, Machine Learning, Web Development",Background description for student 61,Masters
+STU0062,Student 62,Education,3.65,UK,"Creative Arts, Machine Learning, Medical Research",Background description for student 62,PhD
+STU0063,Student 63,Education,2.96,Canada,"Business Management, AI, Data Analysis",Background description for student 63,PhD
+STU0064,Student 64,Environmental Science,2.99,Brazil,"Machine Learning, Business Management, Web Development",Background description for student 64,Undergraduate
+STU0065,Student 65,Medicine,3.08,South Africa,"Medical Research, Legal Studies, Creative Arts",Background description for student 65,PhD
+STU0066,Student 66,Engineering,3.34,UK,"Web Development, AI, Environmental Conservation",Background description for student 66,Masters
+STU0067,Student 67,Engineering,3.76,India,"Environmental Conservation, Business Management, Education Technology",Background description for student 67,Masters
+STU0068,Student 68,Law,3.92,South Africa,"Creative Arts, Data Analysis, Machine Learning",Background description for student 68,Masters
+STU0069,Student 69,Arts,4.38,Germany,"Medical Research, Business Management, Web Development",Background description for student 69,Masters
+STU0070,Student 70,Law,3.34,UAE,"Legal Studies, Creative Arts, Medical Research",Background description for student 70,Masters
+STU0071,Student 71,Data Science,4.21,Australia,"Creative Arts, Education Technology, Environmental Conservation",Background description for student 71,Undergraduate
+STU0072,Student 72,Arts,3.17,Japan,"Environmental Conservation, Web Development, Creative Arts",Background description for student 72,Undergraduate
+STU0073,Student 73,Business,3.39,South Africa,"Education Technology, AI, Creative Arts",Background description for student 73,Masters
+STU0074,Student 74,Law,2.28,UAE,"Education Technology, Data Analysis, Business Management",Background description for student 74,Masters
+STU0075,Student 75,Environmental Science,3.98,UAE,"Machine Learning, Education Technology, Legal Studies",Background description for student 75,PhD
+STU0076,Student 76,Education,2.79,Germany,"Web Development, AI, Creative Arts",Background description for student 76,PhD
+STU0077,Student 77,Arts,3.32,Germany,"Medical Research, Machine Learning, Environmental Conservation",Background description for student 77,PhD
+STU0078,Student 78,Environmental Science,3.68,South Africa,"Business Management, AI, Machine Learning",Background description for student 78,PhD
+STU0079,Student 79,Arts,3.6,UAE,"Creative Arts, AI, Business Management",Background description for student 79,Masters
+STU0080,Student 80,Law,3.07,UAE,"Education Technology, Data Analysis, Creative Arts",Background description for student 80,Masters
+STU0081,Student 81,Business,2.3,Germany,"Machine Learning, Data Analysis, Medical Research",Background description for student 81,PhD
+STU0082,Student 82,Engineering,2.87,UK,"Medical Research, Machine Learning, Creative Arts",Background description for student 82,Masters
+STU0083,Student 83,Arts,3.19,Brazil,"AI, Education Technology, Medical Research",Background description for student 83,Undergraduate
+STU0084,Student 84,Data Science,2.96,Germany,"Environmental Conservation, Education Technology, Medical Research",Background description for student 84,Undergraduate
+STU0085,Student 85,Environmental Science,3.44,Brazil,"Education Technology, Medical Research, Machine Learning",Background description for student 85,Masters
+STU0086,Student 86,Business,3.42,Australia,"Environmental Conservation, Business Management, Web Development",Background description for student 86,Masters
+STU0087,Student 87,Medicine,4.45,Australia,"Education Technology, Environmental Conservation, AI",Background description for student 87,PhD
+STU0088,Student 88,Business,4.05,Canada,"Medical Research, Education Technology, Data Analysis",Background description for student 88,Masters
+STU0089,Student 89,Environmental Science,3.38,USA,"Legal Studies, Environmental Conservation, AI",Background description for student 89,Undergraduate
+STU0090,Student 90,Business,2.64,Australia,"Business Management, Legal Studies, Education Technology",Background description for student 90,Masters
+STU0091,Student 91,Computer Science,3.2,Germany,"Legal Studies, AI, Data Analysis",Background description for student 91,Masters
+STU0092,Student 92,Law,3.64,Germany,"Data Analysis, Medical Research, Legal Studies",Background description for student 92,Masters
+STU0093,Student 93,Business,3.21,Japan,"Data Analysis, Web Development, Medical Research",Background description for student 93,PhD
+STU0094,Student 94,Medicine,3.79,Germany,"Legal Studies, Environmental Conservation, Business Management",Background description for student 94,PhD
+STU0095,Student 95,Medicine,3.62,USA,"Machine Learning, Creative Arts, Data Analysis",Background description for student 95,Undergraduate
+STU0096,Student 96,Education,2.82,Australia,"AI, Machine Learning, Education Technology",Background description for student 96,Masters
+STU0097,Student 97,Medicine,3.21,UAE,"AI, Business Management, Creative Arts",Background description for student 97,PhD
+STU0098,Student 98,Law,3.2,India,"Data Analysis, Environmental Conservation, Business Management",Background description for student 98,PhD
+STU0099,Student 99,Environmental Science,2.36,South Africa,"Education Technology, AI, Environmental Conservation",Background description for student 99,Masters
+STU0100,Student 100,Data Science,3.53,Germany,"Data Analysis, AI, Medical Research",Background description for student 100,PhD
+STU0101,Student 101,Data Science,2.97,India,"AI, Legal Studies, Environmental Conservation",Background description for student 101,Undergraduate
+STU0102,Student 102,Computer Science,3.94,India,"Environmental Conservation, Education Technology, Legal Studies",Background description for student 102,PhD
+STU0103,Student 103,Data Science,3.69,India,"Data Analysis, AI, Creative Arts",Background description for student 103,Masters
+STU0104,Student 104,Computer Science,1.98,UK,"Environmental Conservation, AI, Data Analysis",Background description for student 104,PhD
+STU0105,Student 105,Education,3.01,UK,"Environmental Conservation, Education Technology, Web Development",Background description for student 105,Undergraduate
+STU0106,Student 106,Medicine,3.51,Australia,"Education Technology, Environmental Conservation, Creative Arts",Background description for student 106,PhD
+STU0107,Student 107,Arts,2.8,USA,"AI, Business Management, Creative Arts",Background description for student 107,Masters
+STU0108,Student 108,Data Science,3.33,Japan,"Data Analysis, Environmental Conservation, Machine Learning",Background description for student 108,Undergraduate
+STU0109,Student 109,Environmental Science,3.3,Canada,"Medical Research, Legal Studies, Web Development",Background description for student 109,Masters
+STU0110,Student 110,Business,2.8,Australia,"Education Technology, Machine Learning, Data Analysis",Background description for student 110,PhD
+STU0111,Student 111,Environmental Science,2.92,South Africa,"Environmental Conservation, Machine Learning, Legal Studies",Background description for student 111,Masters
+STU0112,Student 112,Engineering,2.68,India,"Medical Research, AI, Data Analysis",Background description for student 112,PhD
+STU0113,Student 113,Computer Science,3.83,South Africa,"Creative Arts, Environmental Conservation, Legal Studies",Background description for student 113,Masters
+STU0114,Student 114,Education,2.79,India,"Legal Studies, Environmental Conservation, Machine Learning",Background description for student 114,PhD
+STU0115,Student 115,Data Science,2.72,Germany,"AI, Legal Studies, Machine Learning",Background description for student 115,PhD
+STU0116,Student 116,Data Science,3.38,South Africa,"Business Management, AI, Education Technology",Background description for student 116,PhD
+STU0117,Student 117,Business,3.29,Germany,"AI, Environmental Conservation, Legal Studies",Background description for student 117,Undergraduate
+STU0118,Student 118,Education,3.31,UAE,"Web Development, Medical Research, Legal Studies",Background description for student 118,Masters
+STU0119,Student 119,Arts,3.45,Australia,"Legal Studies, AI, Environmental Conservation",Background description for student 119,Undergraduate
+STU0120,Student 120,Computer Science,2.07,Japan,"Data Analysis, AI, Creative Arts",Background description for student 120,Undergraduate
+STU0121,Student 121,Business,3.36,India,"Education Technology, Web Development, Data Analysis",Background description for student 121,PhD
+STU0122,Student 122,Arts,3.32,Brazil,"Creative Arts, Medical Research, Legal Studies",Background description for student 122,Masters
+STU0123,Student 123,Business,2.44,Australia,"Machine Learning, Legal Studies, Medical Research",Background description for student 123,Undergraduate
+STU0124,Student 124,Computer Science,3.34,Australia,"Environmental Conservation, Education Technology, Machine Learning",Background description for student 124,PhD
+STU0125,Student 125,Law,2.95,India,"Creative Arts, AI, Web Development",Background description for student 125,PhD
+STU0126,Student 126,Computer Science,3.22,UK,"Business Management, AI, Web Development",Background description for student 126,Masters
+STU0127,Student 127,Environmental Science,3.18,India,"Legal Studies, AI, Medical Research",Background description for student 127,Masters
+STU0128,Student 128,Data Science,3.42,Brazil,"Business Management, Medical Research, Environmental Conservation",Background description for student 128,PhD
+STU0129,Student 129,Business,2.85,Brazil,"Web Development, Environmental Conservation, Medical Research",Background description for student 129,PhD
+STU0130,Student 130,Arts,3.53,Canada,"Medical Research, Creative Arts, Machine Learning",Background description for student 130,Undergraduate
+STU0131,Student 131,Environmental Science,4.05,South Africa,"Medical Research, Web Development, Legal Studies",Background description for student 131,Undergraduate
+STU0132,Student 132,Data Science,2.97,USA,"Business Management, Legal Studies, Data Analysis",Background description for student 132,PhD
+STU0133,Student 133,Engineering,2.59,Germany,"Business Management, Creative Arts, Environmental Conservation",Background description for student 133,Undergraduate
+STU0134,Student 134,Arts,3.27,UK,"AI, Legal Studies, Creative Arts",Background description for student 134,Masters
+STU0135,Student 135,Medicine,3.33,Australia,"Web Development, Medical Research, Education Technology",Background description for student 135,Undergraduate
+STU0136,Student 136,Law,3.5,South Africa,"Education Technology, Creative Arts, Machine Learning",Background description for student 136,PhD
+STU0137,Student 137,Business,3.07,UAE,"Legal Studies, Data Analysis, AI",Background description for student 137,Masters
+STU0138,Student 138,Business,3.49,UK,"Legal Studies, Medical Research, Environmental Conservation",Background description for student 138,PhD
+STU0139,Student 139,Environmental Science,2.41,South Africa,"Legal Studies, Data Analysis, Education Technology",Background description for student 139,PhD
+STU0140,Student 140,Engineering,3.06,UAE,"Data Analysis, Machine Learning, Business Management",Background description for student 140,PhD
+STU0141,Student 141,Arts,3.68,UAE,"Environmental Conservation, Medical Research, Education Technology",Background description for student 141,PhD
+STU0142,Student 142,Arts,3.3,UAE,"Web Development, AI, Business Management",Background description for student 142,Undergraduate
+STU0143,Student 143,Medicine,3.07,Germany,"Business Management, Machine Learning, Medical Research",Background description for student 143,PhD
+STU0144,Student 144,Education,2.37,Australia,"Web Development, AI, Creative Arts",Background description for student 144,PhD
+STU0145,Student 145,Business,3.32,Germany,"Medical Research, Creative Arts, Web Development",Background description for student 145,Undergraduate
+STU0146,Student 146,Medicine,4.23,Germany,"Data Analysis, Machine Learning, Environmental Conservation",Background description for student 146,Undergraduate
+STU0147,Student 147,Arts,3.97,India,"Creative Arts, Business Management, Data Analysis",Background description for student 147,Masters
+STU0148,Student 148,Environmental Science,3.85,India,"Machine Learning, Business Management, Education Technology",Background description for student 148,Undergraduate
+STU0149,Student 149,Engineering,4.6,UK,"Medical Research, Creative Arts, Business Management",Background description for student 149,Undergraduate
+STU0150,Student 150,Education,3.41,USA,"Medical Research, Environmental Conservation, Data Analysis",Background description for student 150,Undergraduate
+STU0151,Student 151,Education,3.89,South Africa,"Web Development, Data Analysis, Legal Studies",Background description for student 151,Undergraduate
+STU0152,Student 152,Education,3.79,Canada,"Environmental Conservation, Legal Studies, Business Management",Background description for student 152,Masters
+STU0153,Student 153,Environmental Science,2.85,Brazil,"Legal Studies, Web Development, Business Management",Background description for student 153,PhD
+STU0154,Student 154,Business,2.19,UK,"Machine Learning, Web Development, Creative Arts",Background description for student 154,Undergraduate
+STU0155,Student 155,Computer Science,2.65,South Africa,"Creative Arts, Environmental Conservation, Legal Studies",Background description for student 155,Masters
+STU0156,Student 156,Engineering,2.97,Brazil,"Legal Studies, Education Technology, Web Development",Background description for student 156,Undergraduate
+STU0157,Student 157,Environmental Science,3.33,Australia,"Creative Arts, Web Development, AI",Background description for student 157,Undergraduate
+STU0158,Student 158,Environmental Science,3.0,UAE,"Education Technology, AI, Data Analysis",Background description for student 158,Undergraduate
+STU0159,Student 159,Data Science,2.69,UK,"Machine Learning, Business Management, Data Analysis",Background description for student 159,Undergraduate
+STU0160,Student 160,Engineering,3.26,South Africa,"Creative Arts, Machine Learning, Data Analysis",Background description for student 160,PhD
+STU0161,Student 161,Business,3.21,Brazil,"Legal Studies, AI, Creative Arts",Background description for student 161,Masters
+STU0162,Student 162,Law,3.12,Japan,"Data Analysis, Medical Research, Creative Arts",Background description for student 162,Masters
+STU0163,Student 163,Computer Science,3.97,Brazil,"Data Analysis, Education Technology, Business Management",Background description for student 163,Undergraduate
+STU0164,Student 164,Environmental Science,4.11,UK,"Legal Studies, Business Management, Data Analysis",Background description for student 164,Undergraduate
+STU0165,Student 165,Computer Science,3.29,UK,"Education Technology, Data Analysis, Machine Learning",Background description for student 165,Undergraduate
+STU0166,Student 166,Data Science,3.67,India,"Education Technology, Creative Arts, Business Management",Background description for student 166,Undergraduate
+STU0167,Student 167,Data Science,3.29,UAE,"Legal Studies, Medical Research, Web Development",Background description for student 167,PhD
+STU0168,Student 168,Environmental Science,3.31,Japan,"Machine Learning, Business Management, Education Technology",Background description for student 168,Masters
+STU0169,Student 169,Law,3.24,UK,"Legal Studies, Medical Research, Business Management",Background description for student 169,Masters
+STU0170,Student 170,Business,4.43,Japan,"Creative Arts, Legal Studies, Education Technology",Background description for student 170,Masters
+STU0171,Student 171,Medicine,3.24,India,"Education Technology, Creative Arts, Machine Learning",Background description for student 171,Masters
+STU0172,Student 172,Medicine,3.56,Germany,"Environmental Conservation, Medical Research, Data Analysis",Background description for student 172,Undergraduate
+STU0173,Student 173,Business,3.69,South Africa,"Creative Arts, Legal Studies, AI",Background description for student 173,PhD
+STU0174,Student 174,Business,4.04,Brazil,"Data Analysis, Business Management, Creative Arts",Background description for student 174,PhD
+STU0175,Student 175,Education,3.53,USA,"Machine Learning, Web Development, Environmental Conservation",Background description for student 175,PhD
+STU0176,Student 176,Engineering,2.26,India,"Web Development, Machine Learning, AI",Background description for student 176,PhD
+STU0177,Student 177,Business,3.43,India,"Web Development, AI, Legal Studies",Background description for student 177,Undergraduate
+STU0178,Student 178,Computer Science,2.7,Canada,"Data Analysis, Education Technology, AI",Background description for student 178,PhD
+STU0179,Student 179,Engineering,3.34,Germany,"Data Analysis, Machine Learning, Creative Arts",Background description for student 179,Undergraduate
+STU0180,Student 180,Education,3.34,India,"AI, Web Development, Business Management",Background description for student 180,PhD
+STU0181,Student 181,Arts,2.8,South Africa,"AI, Environmental Conservation, Legal Studies",Background description for student 181,Masters
+STU0182,Student 182,Business,2.79,Australia,"Creative Arts, Machine Learning, Legal Studies",Background description for student 182,Undergraduate
+STU0183,Student 183,Computer Science,2.97,Germany,"Environmental Conservation, Medical Research, AI",Background description for student 183,Masters
+STU0184,Student 184,Medicine,2.29,Canada,"Creative Arts, Environmental Conservation, Data Analysis",Background description for student 184,Undergraduate
+STU0185,Student 185,Engineering,3.23,USA,"Environmental Conservation, Medical Research, Creative Arts",Background description for student 185,Masters
+STU0186,Student 186,Computer Science,2.5,USA,"Environmental Conservation, Medical Research, Creative Arts",Background description for student 186,Undergraduate
+STU0187,Student 187,Law,2.72,UAE,"Web Development, Creative Arts, Data Analysis",Background description for student 187,Undergraduate
+STU0188,Student 188,Arts,3.02,Canada,"Web Development, AI, Medical Research",Background description for student 188,Masters
+STU0189,Student 189,Environmental Science,3.37,Japan,"Education Technology, Legal Studies, AI",Background description for student 189,PhD
+STU0190,Student 190,Business,2.07,South Africa,"Environmental Conservation, Data Analysis, Business Management",Background description for student 190,Undergraduate
+STU0191,Student 191,Environmental Science,2.66,USA,"Data Analysis, Machine Learning, AI",Background description for student 191,PhD
+STU0192,Student 192,Arts,2.68,South Africa,"Environmental Conservation, Legal Studies, Creative Arts",Background description for student 192,Undergraduate
+STU0193,Student 193,Education,3.42,South Africa,"Web Development, Medical Research, Education Technology",Background description for student 193,PhD
+STU0194,Student 194,Medicine,3.29,UK,"Education Technology, Web Development, Environmental Conservation",Background description for student 194,Masters
+STU0195,Student 195,Law,3.32,India,"Creative Arts, Data Analysis, Environmental Conservation",Background description for student 195,PhD
+STU0196,Student 196,Law,2.96,USA,"Data Analysis, Medical Research, Legal Studies",Background description for student 196,Undergraduate
+STU0197,Student 197,Environmental Science,3.81,India,"Machine Learning, Education Technology, Web Development",Background description for student 197,Undergraduate
+STU0198,Student 198,Engineering,2.87,Germany,"Education Technology, Creative Arts, Environmental Conservation",Background description for student 198,Masters
+STU0199,Student 199,Environmental Science,3.22,Japan,"Data Analysis, Legal Studies, Web Development",Background description for student 199,Undergraduate
+STU0200,Student 200,Arts,3.15,South Africa,"Environmental Conservation, Medical Research, Education Technology",Background description for student 200,Masters
+STU0201,Student 201,Data Science,2.97,UAE,"Web Development, Education Technology, Legal Studies",Background description for student 201,Undergraduate
+STU0202,Student 202,Engineering,2.89,India,"Education Technology, Environmental Conservation, AI",Background description for student 202,PhD
+STU0203,Student 203,Arts,4.09,Japan,"Legal Studies, Business Management, Environmental Conservation",Background description for student 203,PhD
+STU0204,Student 204,Education,4.15,UAE,"Creative Arts, Machine Learning, Web Development",Background description for student 204,PhD
+STU0205,Student 205,Arts,3.22,UAE,"Business Management, Creative Arts, Web Development",Background description for student 205,Masters
+STU0206,Student 206,Data Science,2.35,Japan,"Medical Research, Business Management, Web Development",Background description for student 206,Masters
+STU0207,Student 207,Computer Science,2.57,Japan,"Data Analysis, Medical Research, Legal Studies",Background description for student 207,Undergraduate
+STU0208,Student 208,Medicine,2.7,Japan,"Education Technology, AI, Business Management",Background description for student 208,Undergraduate
+STU0209,Student 209,Computer Science,2.55,USA,"Web Development, AI, Education Technology",Background description for student 209,Masters
+STU0210,Student 210,Environmental Science,2.75,South Africa,"Machine Learning, Web Development, Medical Research",Background description for student 210,Undergraduate
+STU0211,Student 211,Law,2.54,Brazil,"Machine Learning, Web Development, Creative Arts",Background description for student 211,PhD
+STU0212,Student 212,Environmental Science,2.23,UAE,"Web Development, AI, Creative Arts",Background description for student 212,PhD
+STU0213,Student 213,Business,2.9,UK,"Environmental Conservation, Education Technology, Web Development",Background description for student 213,Undergraduate
+STU0214,Student 214,Arts,2.15,Australia,"Legal Studies, Education Technology, Business Management",Background description for student 214,Undergraduate
+STU0215,Student 215,Engineering,3.67,UK,"Environmental Conservation, Medical Research, Legal Studies",Background description for student 215,Masters
+STU0216,Student 216,Arts,3.07,USA,"Legal Studies, AI, Creative Arts",Background description for student 216,Masters
+STU0217,Student 217,Computer Science,3.02,UK,"Data Analysis, Education Technology, Machine Learning",Background description for student 217,Masters
+STU0218,Student 218,Medicine,3.18,India,"Education Technology, Data Analysis, Web Development",Background description for student 218,PhD
+STU0219,Student 219,Computer Science,2.65,Australia,"Web Development, Education Technology, Environmental Conservation",Background description for student 219,Undergraduate
+STU0220,Student 220,Data Science,3.31,India,"Machine Learning, Data Analysis, Environmental Conservation",Background description for student 220,Undergraduate
+STU0221,Student 221,Data Science,2.99,Germany,"Business Management, Machine Learning, AI",Background description for student 221,PhD
+STU0222,Student 222,Engineering,3.33,Germany,"Data Analysis, Web Development, Machine Learning",Background description for student 222,Masters
+STU0223,Student 223,Arts,3.5,Japan,"Creative Arts, Business Management, Environmental Conservation",Background description for student 223,Masters
+STU0224,Student 224,Environmental Science,2.65,Germany,"Environmental Conservation, AI, Legal Studies",Background description for student 224,PhD
+STU0225,Student 225,Engineering,2.61,India,"Web Development, Machine Learning, Medical Research",Background description for student 225,Masters
+STU0226,Student 226,Business,3.44,Japan,"Environmental Conservation, Machine Learning, Creative Arts",Background description for student 226,Undergraduate
+STU0227,Student 227,Business,2.78,Australia,"Creative Arts, Medical Research, Web Development",Background description for student 227,Masters
+STU0228,Student 228,Engineering,3.94,South Africa,"Medical Research, AI, Creative Arts",Background description for student 228,Undergraduate
+STU0229,Student 229,Data Science,3.43,UK,"Business Management, AI, Web Development",Background description for student 229,Undergraduate
+STU0230,Student 230,Engineering,1.87,Australia,"Environmental Conservation, AI, Web Development",Background description for student 230,Undergraduate
+STU0231,Student 231,Education,3.87,South Africa,"Environmental Conservation, Legal Studies, Data Analysis",Background description for student 231,PhD
+STU0232,Student 232,Engineering,3.1,USA,"Machine Learning, Business Management, Legal Studies",Background description for student 232,Undergraduate
+STU0233,Student 233,Environmental Science,3.22,Germany,"Data Analysis, Creative Arts, Machine Learning",Background description for student 233,Masters
+STU0234,Student 234,Medicine,2.93,Canada,"Medical Research, Data Analysis, Environmental Conservation",Background description for student 234,Undergraduate
+STU0235,Student 235,Data Science,3.67,USA,"Data Analysis, Education Technology, Medical Research",Background description for student 235,Undergraduate
+STU0236,Student 236,Environmental Science,3.21,Australia,"Medical Research, Web Development, Data Analysis",Background description for student 236,Undergraduate
+STU0237,Student 237,Law,2.52,Canada,"Environmental Conservation, Creative Arts, Medical Research",Background description for student 237,Undergraduate
+STU0238,Student 238,Education,2.69,South Africa,"AI, Web Development, Machine Learning",Background description for student 238,Undergraduate
+STU0239,Student 239,Engineering,3.2,India,"Environmental Conservation, Data Analysis, Medical Research",Background description for student 239,PhD
+STU0240,Student 240,Data Science,3.21,UAE,"Creative Arts, Education Technology, Environmental Conservation",Background description for student 240,Masters
+STU0241,Student 241,Environmental Science,3.92,Germany,"Web Development, Machine Learning, Creative Arts",Background description for student 241,Undergraduate
+STU0242,Student 242,Arts,3.21,Canada,"Business Management, Data Analysis, Medical Research",Background description for student 242,PhD
+STU0243,Student 243,Medicine,3.13,Brazil,"Legal Studies, Education Technology, Business Management",Background description for student 243,Undergraduate
+STU0244,Student 244,Engineering,3.17,UAE,"Machine Learning, Environmental Conservation, Medical Research",Background description for student 244,Masters
+STU0245,Student 245,Computer Science,3.39,UAE,"Data Analysis, Creative Arts, Education Technology",Background description for student 245,PhD
+STU0246,Student 246,Engineering,3.7,South Africa,"Environmental Conservation, AI, Machine Learning",Background description for student 246,Undergraduate
+STU0247,Student 247,Environmental Science,3.41,Japan,"Medical Research, Environmental Conservation, Legal Studies",Background description for student 247,Undergraduate
+STU0248,Student 248,Engineering,3.7,India,"Machine Learning, Environmental Conservation, AI",Background description for student 248,Masters
+STU0249,Student 249,Business,3.63,UAE,"Data Analysis, Business Management, AI",Background description for student 249,PhD
+STU0250,Student 250,Data Science,3.43,Canada,"AI, Medical Research, Education Technology",Background description for student 250,PhD
+STU0251,Student 251,Medicine,3.41,India,"Creative Arts, Environmental Conservation, Machine Learning",Background description for student 251,PhD
+STU0252,Student 252,Law,3.38,USA,"Business Management, Web Development, Education Technology",Background description for student 252,Undergraduate
+STU0253,Student 253,Engineering,2.66,Japan,"Medical Research, Machine Learning, Data Analysis",Background description for student 253,Masters
+STU0254,Student 254,Business,3.18,Australia,"Education Technology, AI, Web Development",Background description for student 254,Undergraduate
+STU0255,Student 255,Environmental Science,3.36,Canada,"AI, Business Management, Data Analysis",Background description for student 255,Undergraduate
+STU0256,Student 256,Law,3.59,South Africa,"AI, Education Technology, Web Development",Background description for student 256,Undergraduate
+STU0257,Student 257,Business,2.66,UAE,"AI, Web Development, Education Technology",Background description for student 257,Undergraduate
+STU0258,Student 258,Arts,3.57,UAE,"Environmental Conservation, Creative Arts, AI",Background description for student 258,Masters
+STU0259,Student 259,Environmental Science,3.08,UK,"Web Development, Education Technology, Machine Learning",Background description for student 259,Masters
+STU0260,Student 260,Computer Science,3.38,UK,"Legal Studies, Web Development, Machine Learning",Background description for student 260,Undergraduate
+STU0261,Student 261,Arts,2.75,Japan,"Environmental Conservation, Creative Arts, Data Analysis",Background description for student 261,PhD
+STU0262,Student 262,Business,3.3,UK,"Medical Research, Environmental Conservation, Legal Studies",Background description for student 262,Masters
+STU0263,Student 263,Education,3.44,Germany,"AI, Education Technology, Machine Learning",Background description for student 263,PhD
+STU0264,Student 264,Environmental Science,3.55,Japan,"Machine Learning, Business Management, Web Development",Background description for student 264,Undergraduate
+STU0265,Student 265,Computer Science,3.29,Canada,"Legal Studies, Environmental Conservation, Medical Research",Background description for student 265,Masters
+STU0266,Student 266,Business,3.26,South Africa,"Web Development, Data Analysis, AI",Background description for student 266,Masters
+STU0267,Student 267,Engineering,2.5,UK,"Web Development, AI, Creative Arts",Background description for student 267,PhD
+STU0268,Student 268,Arts,2.92,Japan,"Data Analysis, Legal Studies, Creative Arts",Background description for student 268,PhD
+STU0269,Student 269,Computer Science,2.95,UK,"Web Development, Machine Learning, Data Analysis",Background description for student 269,PhD
+STU0270,Student 270,Data Science,3.37,Canada,"Business Management, Education Technology, Creative Arts",Background description for student 270,Undergraduate
+STU0271,Student 271,Engineering,2.97,Canada,"Education Technology, Machine Learning, Business Management",Background description for student 271,PhD
+STU0272,Student 272,Education,3.63,South Africa,"Legal Studies, Business Management, Environmental Conservation",Background description for student 272,PhD
+STU0273,Student 273,Environmental Science,2.22,Australia,"Data Analysis, Legal Studies, Environmental Conservation",Background description for student 273,Undergraduate
+STU0274,Student 274,Environmental Science,3.37,UK,"Web Development, Data Analysis, Environmental Conservation",Background description for student 274,PhD
+STU0275,Student 275,Education,2.16,UAE,"Education Technology, Creative Arts, Medical Research",Background description for student 275,Undergraduate
+STU0276,Student 276,Environmental Science,3.51,USA,"Medical Research, Environmental Conservation, AI",Background description for student 276,PhD
+STU0277,Student 277,Education,3.4,Canada,"Education Technology, Creative Arts, Medical Research",Background description for student 277,Masters
+STU0278,Student 278,Data Science,2.44,USA,"Machine Learning, AI, Creative Arts",Background description for student 278,PhD
+STU0279,Student 279,Medicine,2.94,UAE,"Education Technology, Medical Research, Business Management",Background description for student 279,PhD
+STU0280,Student 280,Business,3.53,Canada,"Education Technology, Data Analysis, Machine Learning",Background description for student 280,PhD
+STU0281,Student 281,Law,3.79,India,"Environmental Conservation, Machine Learning, Web Development",Background description for student 281,Masters
+STU0282,Student 282,Arts,3.43,Germany,"Environmental Conservation, Machine Learning, Creative Arts",Background description for student 282,Undergraduate
+STU0283,Student 283,Education,2.9,South Africa,"Legal Studies, Business Management, Data Analysis",Background description for student 283,Undergraduate
+STU0284,Student 284,Data Science,3.41,Germany,"Education Technology, Environmental Conservation, Medical Research",Background description for student 284,PhD
+STU0285,Student 285,Education,3.26,UAE,"Education Technology, Web Development, Business Management",Background description for student 285,Masters
+STU0286,Student 286,Law,2.34,Brazil,"AI, Data Analysis, Medical Research",Background description for student 286,Undergraduate
+STU0287,Student 287,Computer Science,2.36,Germany,"Creative Arts, Web Development, AI",Background description for student 287,Undergraduate
+STU0288,Student 288,Education,3.83,USA,"Data Analysis, Legal Studies, Creative Arts",Background description for student 288,Masters
+STU0289,Student 289,Computer Science,3.79,Australia,"Education Technology, AI, Business Management",Background description for student 289,PhD
+STU0290,Student 290,Medicine,2.26,Japan,"Data Analysis, Machine Learning, Business Management",Background description for student 290,Masters
+STU0291,Student 291,Business,2.98,UAE,"Education Technology, Machine Learning, Environmental Conservation",Background description for student 291,Masters
+STU0292,Student 292,Computer Science,3.99,UK,"Medical Research, Legal Studies, Data Analysis",Background description for student 292,Undergraduate
+STU0293,Student 293,Engineering,4.01,India,"Data Analysis, Web Development, Environmental Conservation",Background description for student 293,Undergraduate
+STU0294,Student 294,Business,3.19,UAE,"Creative Arts, Web Development, AI",Background description for student 294,Masters
+STU0295,Student 295,Medicine,3.28,USA,"Education Technology, Data Analysis, Medical Research",Background description for student 295,Undergraduate
+STU0296,Student 296,Engineering,3.64,Germany,"Environmental Conservation, Business Management, Data Analysis",Background description for student 296,PhD
+STU0297,Student 297,Business,3.76,Brazil,"Legal Studies, Business Management, Creative Arts",Background description for student 297,PhD
+STU0298,Student 298,Data Science,3.32,Japan,"Machine Learning, Data Analysis, AI",Background description for student 298,Masters
+STU0299,Student 299,Business,4.35,Canada,"Business Management, Data Analysis, AI",Background description for student 299,Masters
+STU0300,Student 300,Computer Science,2.65,USA,"AI, Medical Research, Legal Studies",Background description for student 300,Masters
+STU0301,Student 301,Education,3.65,Japan,"Medical Research, Education Technology, AI",Background description for student 301,Masters
+STU0302,Student 302,Business,3.83,UAE,"Medical Research, Creative Arts, Data Analysis",Background description for student 302,Masters
+STU0303,Student 303,Computer Science,3.06,Canada,"Legal Studies, Machine Learning, Medical Research",Background description for student 303,Undergraduate
+STU0304,Student 304,Medicine,3.03,Brazil,"Web Development, Environmental Conservation, Education Technology",Background description for student 304,Undergraduate
+STU0305,Student 305,Environmental Science,2.72,South Africa,"Business Management, Environmental Conservation, Education Technology",Background description for student 305,Undergraduate
+STU0306,Student 306,Law,3.09,Australia,"Education Technology, Medical Research, Data Analysis",Background description for student 306,Undergraduate
+STU0307,Student 307,Arts,3.23,USA,"Environmental Conservation, Medical Research, Creative Arts",Background description for student 307,Masters
+STU0308,Student 308,Education,2.93,India,"Machine Learning, Data Analysis, Legal Studies",Background description for student 308,Undergraduate
+STU0309,Student 309,Business,3.35,Australia,"Data Analysis, Machine Learning, Creative Arts",Background description for student 309,Masters
+STU0310,Student 310,Computer Science,3.21,India,"Environmental Conservation, Creative Arts, Business Management",Background description for student 310,Undergraduate
+STU0311,Student 311,Computer Science,3.89,UAE,"AI, Machine Learning, Data Analysis",Background description for student 311,Undergraduate
+STU0312,Student 312,Medicine,3.17,Canada,"Data Analysis, Medical Research, Legal Studies",Background description for student 312,PhD
+STU0313,Student 313,Engineering,3.32,UAE,"Web Development, Business Management, Data Analysis",Background description for student 313,PhD
+STU0314,Student 314,Data Science,2.73,India,"Legal Studies, Medical Research, AI",Background description for student 314,Masters
+STU0315,Student 315,Engineering,3.07,South Africa,"Machine Learning, Business Management, Data Analysis",Background description for student 315,Masters
+STU0316,Student 316,Data Science,2.31,Australia,"Business Management, Creative Arts, Data Analysis",Background description for student 316,Masters
+STU0317,Student 317,Environmental Science,3.73,Australia,"Education Technology, Legal Studies, Machine Learning",Background description for student 317,PhD
+STU0318,Student 318,Data Science,2.53,Brazil,"Creative Arts, Legal Studies, Machine Learning",Background description for student 318,Masters
+STU0319,Student 319,Law,3.44,UK,"Education Technology, Medical Research, Creative Arts",Background description for student 319,Masters
+STU0320,Student 320,Education,3.65,Germany,"Legal Studies, Machine Learning, Business Management",Background description for student 320,PhD
+STU0321,Student 321,Education,3.33,Brazil,"Business Management, Web Development, Education Technology",Background description for student 321,Undergraduate
+STU0322,Student 322,Arts,3.29,UK,"Web Development, Medical Research, Environmental Conservation",Background description for student 322,Masters
+STU0323,Student 323,Engineering,2.85,Australia,"AI, Medical Research, Web Development",Background description for student 323,PhD
+STU0324,Student 324,Medicine,3.19,UK,"Medical Research, Legal Studies, Environmental Conservation",Background description for student 324,Masters
+STU0325,Student 325,Law,2.51,UAE,"Business Management, Environmental Conservation, Machine Learning",Background description for student 325,Masters
+STU0326,Student 326,Law,2.98,Japan,"Environmental Conservation, Creative Arts, Medical Research",Background description for student 326,Masters
+STU0327,Student 327,Engineering,3.26,Germany,"Legal Studies, Business Management, Medical Research",Background description for student 327,Masters
+STU0328,Student 328,Education,2.93,Canada,"Business Management, Environmental Conservation, Data Analysis",Background description for student 328,Undergraduate
+STU0329,Student 329,Computer Science,2.64,South Africa,"Environmental Conservation, Business Management, Education Technology",Background description for student 329,Undergraduate
+STU0330,Student 330,Environmental Science,2.36,Australia,"Web Development, Machine Learning, AI",Background description for student 330,Masters
+STU0331,Student 331,Engineering,3.36,Canada,"Machine Learning, Environmental Conservation, Education Technology",Background description for student 331,Masters
+STU0332,Student 332,Environmental Science,3.18,UAE,"Legal Studies, Creative Arts, Web Development",Background description for student 332,Undergraduate
+STU0333,Student 333,Environmental Science,3.33,Germany,"Medical Research, Education Technology, Machine Learning",Background description for student 333,Masters
+STU0334,Student 334,Education,2.4,Canada,"Medical Research, Legal Studies, AI",Background description for student 334,Masters
+STU0335,Student 335,Business,3.15,Canada,"Legal Studies, AI, Data Analysis",Background description for student 335,Masters
+STU0336,Student 336,Business,3.22,Japan,"Machine Learning, Education Technology, Business Management",Background description for student 336,Masters
+STU0337,Student 337,Computer Science,2.65,UAE,"Creative Arts, Data Analysis, Web Development",Background description for student 337,PhD
+STU0338,Student 338,Arts,3.32,Brazil,"Business Management, Medical Research, AI",Background description for student 338,Masters
+STU0339,Student 339,Medicine,3.64,Australia,"Business Management, AI, Environmental Conservation",Background description for student 339,PhD
+STU0340,Student 340,Environmental Science,3.13,Australia,"AI, Business Management, Legal Studies",Background description for student 340,Undergraduate
+STU0341,Student 341,Arts,2.33,USA,"AI, Education Technology, Creative Arts",Background description for student 341,Masters
+STU0342,Student 342,Engineering,2.74,Japan,"Business Management, Web Development, Education Technology",Background description for student 342,PhD
+STU0343,Student 343,Environmental Science,3.04,UAE,"Education Technology, Web Development, Environmental Conservation",Background description for student 343,Masters
+STU0344,Student 344,Law,3.21,Australia,"Data Analysis, Education Technology, Legal Studies",Background description for student 344,Masters
+STU0345,Student 345,Business,3.02,Canada,"Creative Arts, Legal Studies, Medical Research",Background description for student 345,Masters
+STU0346,Student 346,Education,3.76,Germany,"Creative Arts, Environmental Conservation, Education Technology",Background description for student 346,PhD
+STU0347,Student 347,Arts,3.88,India,"Business Management, Legal Studies, Education Technology",Background description for student 347,Undergraduate
+STU0348,Student 348,Business,3.98,Canada,"Business Management, Medical Research, Machine Learning",Background description for student 348,Undergraduate
+STU0349,Student 349,Medicine,3.26,UAE,"Data Analysis, Business Management, Environmental Conservation",Background description for student 349,PhD
+STU0350,Student 350,Arts,4.01,India,"Business Management, AI, Legal Studies",Background description for student 350,PhD
+STU0351,Student 351,Data Science,2.87,Australia,"Medical Research, Legal Studies, AI",Background description for student 351,Masters
+STU0352,Student 352,Environmental Science,4.12,UAE,"Legal Studies, Business Management, Education Technology",Background description for student 352,Masters
+STU0353,Student 353,Education,2.39,Brazil,"Data Analysis, Web Development, Creative Arts",Background description for student 353,PhD
+STU0354,Student 354,Arts,3.77,Brazil,"Education Technology, AI, Environmental Conservation",Background description for student 354,PhD
+STU0355,Student 355,Arts,3.14,UAE,"Creative Arts, Machine Learning, Data Analysis",Background description for student 355,PhD
+STU0356,Student 356,Computer Science,3.45,Brazil,"Legal Studies, Creative Arts, Data Analysis",Background description for student 356,Masters
+STU0357,Student 357,Business,3.15,UK,"Web Development, Data Analysis, Legal Studies",Background description for student 357,Masters
+STU0358,Student 358,Environmental Science,3.11,Australia,"Creative Arts, Environmental Conservation, AI",Background description for student 358,Masters
+STU0359,Student 359,Law,2.76,Germany,"Business Management, Web Development, Education Technology",Background description for student 359,Masters
+STU0360,Student 360,Medicine,3.54,Japan,"Medical Research, Web Development, Data Analysis",Background description for student 360,PhD
+STU0361,Student 361,Arts,3.79,USA,"Education Technology, Creative Arts, Legal Studies",Background description for student 361,Undergraduate
+STU0362,Student 362,Environmental Science,3.52,South Africa,"Data Analysis, Machine Learning, Web Development",Background description for student 362,Undergraduate
+STU0363,Student 363,Data Science,3.21,India,"Machine Learning, Medical Research, AI",Background description for student 363,PhD
+STU0364,Student 364,Environmental Science,3.48,Canada,"AI, Machine Learning, Web Development",Background description for student 364,Undergraduate
+STU0365,Student 365,Arts,3.29,Brazil,"AI, Education Technology, Creative Arts",Background description for student 365,Undergraduate
+STU0366,Student 366,Environmental Science,2.66,Australia,"Creative Arts, Legal Studies, Business Management",Background description for student 366,Masters
+STU0367,Student 367,Medicine,3.21,South Africa,"Education Technology, Data Analysis, Machine Learning",Background description for student 367,Undergraduate
+STU0368,Student 368,Law,3.25,Canada,"Education Technology, Environmental Conservation, Creative Arts",Background description for student 368,Undergraduate
+STU0369,Student 369,Data Science,3.42,UK,"Web Development, Medical Research, AI",Background description for student 369,Undergraduate
+STU0370,Student 370,Engineering,2.23,UAE,"Education Technology, Business Management, Medical Research",Background description for student 370,Masters
+STU0371,Student 371,Computer Science,3.74,Japan,"Education Technology, Web Development, Business Management",Background description for student 371,Masters
+STU0372,Student 372,Education,3.16,USA,"Creative Arts, Medical Research, Machine Learning",Background description for student 372,PhD
+STU0373,Student 373,Environmental Science,3.16,South Africa,"Legal Studies, Education Technology, AI",Background description for student 373,Masters
+STU0374,Student 374,Arts,3.19,USA,"Legal Studies, AI, Data Analysis",Background description for student 374,PhD
+STU0375,Student 375,Medicine,3.48,Canada,"Environmental Conservation, Creative Arts, Education Technology",Background description for student 375,Undergraduate
+STU0376,Student 376,Education,3.9,Australia,"Education Technology, Legal Studies, Web Development",Background description for student 376,Masters
+STU0377,Student 377,Computer Science,3.96,Canada,"Web Development, Education Technology, Data Analysis",Background description for student 377,Masters
+STU0378,Student 378,Environmental Science,3.13,Germany,"Creative Arts, Medical Research, Business Management",Background description for student 378,Masters
+STU0379,Student 379,Medicine,2.61,Canada,"Business Management, Data Analysis, Creative Arts",Background description for student 379,Undergraduate
+STU0380,Student 380,Law,3.37,India,"Machine Learning, Creative Arts, Medical Research",Background description for student 380,Undergraduate
+STU0381,Student 381,Arts,2.87,Japan,"Creative Arts, Data Analysis, AI",Background description for student 381,Undergraduate
+STU0382,Student 382,Law,3.7,Australia,"Medical Research, Education Technology, Data Analysis",Background description for student 382,PhD
+STU0383,Student 383,Engineering,4.05,Brazil,"Legal Studies, Education Technology, AI",Background description for student 383,Masters
+STU0384,Student 384,Environmental Science,3.04,India,"Web Development, Machine Learning, Education Technology",Background description for student 384,Masters
+STU0385,Student 385,Environmental Science,3.63,India,"Business Management, Web Development, Legal Studies",Background description for student 385,PhD
+STU0386,Student 386,Business,3.58,Canada,"Web Development, Medical Research, Machine Learning",Background description for student 386,Masters
+STU0387,Student 387,Medicine,3.04,South Africa,"Machine Learning, Web Development, Education Technology",Background description for student 387,Masters
+STU0388,Student 388,Law,2.69,Australia,"Data Analysis, Education Technology, Creative Arts",Background description for student 388,Masters
+STU0389,Student 389,Computer Science,3.84,South Africa,"Web Development, Machine Learning, Education Technology",Background description for student 389,Masters
+STU0390,Student 390,Business,3.16,USA,"Legal Studies, Creative Arts, Business Management",Background description for student 390,Undergraduate
+STU0391,Student 391,Engineering,3.44,India,"Web Development, Legal Studies, Business Management",Background description for student 391,Masters
+STU0392,Student 392,Business,3.44,USA,"Medical Research, Data Analysis, Web Development",Background description for student 392,PhD
+STU0393,Student 393,Arts,4.14,UAE,"Medical Research, Business Management, Data Analysis",Background description for student 393,Masters
+STU0394,Student 394,Engineering,2.88,South Africa,"Education Technology, Data Analysis, Machine Learning",Background description for student 394,Masters
+STU0395,Student 395,Computer Science,2.36,UK,"Medical Research, Legal Studies, Education Technology",Background description for student 395,PhD
+STU0396,Student 396,Law,3.56,Germany,"AI, Business Management, Machine Learning",Background description for student 396,PhD
+STU0397,Student 397,Data Science,2.77,USA,"AI, Education Technology, Creative Arts",Background description for student 397,Masters
+STU0398,Student 398,Law,3.03,USA,"Legal Studies, Web Development, Business Management",Background description for student 398,Masters
+STU0399,Student 399,Engineering,2.58,Canada,"Data Analysis, Environmental Conservation, Medical Research",Background description for student 399,PhD
+STU0400,Student 400,Medicine,2.12,UAE,"Medical Research, Business Management, Machine Learning",Background description for student 400,PhD
+STU0401,Student 401,Business,3.36,India,"Legal Studies, Medical Research, Machine Learning",Background description for student 401,Masters
+STU0402,Student 402,Business,3.58,UAE,"Creative Arts, Environmental Conservation, AI",Background description for student 402,Undergraduate
+STU0403,Student 403,Environmental Science,3.19,South Africa,"Web Development, Creative Arts, Data Analysis",Background description for student 403,Masters
+STU0404,Student 404,Environmental Science,3.15,Germany,"Environmental Conservation, Medical Research, Data Analysis",Background description for student 404,Masters
+STU0405,Student 405,Data Science,3.69,Japan,"AI, Data Analysis, Medical Research",Background description for student 405,Undergraduate
+STU0406,Student 406,Computer Science,2.54,Brazil,"Legal Studies, Web Development, Creative Arts",Background description for student 406,Undergraduate
+STU0407,Student 407,Data Science,3.63,UK,"Creative Arts, Business Management, Environmental Conservation",Background description for student 407,PhD
+STU0408,Student 408,Engineering,2.85,Canada,"Medical Research, Machine Learning, Education Technology",Background description for student 408,PhD
+STU0409,Student 409,Education,3.92,Japan,"AI, Creative Arts, Machine Learning",Background description for student 409,Masters
+STU0410,Student 410,Education,2.83,Japan,"Business Management, AI, Education Technology",Background description for student 410,PhD
+STU0411,Student 411,Business,2.53,UK,"Data Analysis, Web Development, AI",Background description for student 411,PhD
+STU0412,Student 412,Medicine,3.9,USA,"Creative Arts, Web Development, Environmental Conservation",Background description for student 412,Masters
+STU0413,Student 413,Education,3.8,UAE,"Data Analysis, Machine Learning, Business Management",Background description for student 413,PhD
+STU0414,Student 414,Arts,2.34,Canada,"Medical Research, AI, Legal Studies",Background description for student 414,Undergraduate
+STU0415,Student 415,Arts,2.75,Australia,"Education Technology, Machine Learning, Data Analysis",Background description for student 415,PhD
+STU0416,Student 416,Computer Science,3.19,Canada,"AI, Machine Learning, Education Technology",Background description for student 416,PhD
+STU0417,Student 417,Computer Science,1.91,Australia,"Legal Studies, Medical Research, Business Management",Background description for student 417,PhD
+STU0418,Student 418,Medicine,4.11,USA,"Environmental Conservation, Machine Learning, Business Management",Background description for student 418,PhD
+STU0419,Student 419,Education,3.7,South Africa,"Machine Learning, Legal Studies, Data Analysis",Background description for student 419,PhD
+STU0420,Student 420,Medicine,2.66,Germany,"Machine Learning, Environmental Conservation, Legal Studies",Background description for student 420,Undergraduate
+STU0421,Student 421,Education,3.06,Australia,"Environmental Conservation, Data Analysis, Creative Arts",Background description for student 421,Undergraduate
+STU0422,Student 422,Environmental Science,3.82,Australia,"Creative Arts, Education Technology, Environmental Conservation",Background description for student 422,Masters
+STU0423,Student 423,Arts,3.64,Germany,"Machine Learning, Education Technology, AI",Background description for student 423,Undergraduate
+STU0424,Student 424,Law,3.35,Germany,"Medical Research, Environmental Conservation, Education Technology",Background description for student 424,PhD
+STU0425,Student 425,Law,2.95,Canada,"AI, Education Technology, Legal Studies",Background description for student 425,PhD
+STU0426,Student 426,Business,3.25,Canada,"Creative Arts, Medical Research, Education Technology",Background description for student 426,Undergraduate
+STU0427,Student 427,Business,3.12,UK,"Legal Studies, Environmental Conservation, Data Analysis",Background description for student 427,PhD
+STU0428,Student 428,Environmental Science,3.0,South Africa,"Environmental Conservation, Creative Arts, Legal Studies",Background description for student 428,PhD
+STU0429,Student 429,Data Science,2.82,India,"Medical Research, AI, Machine Learning",Background description for student 429,PhD
+STU0430,Student 430,Computer Science,3.37,USA,"Education Technology, Environmental Conservation, Machine Learning",Background description for student 430,PhD
+STU0431,Student 431,Arts,2.79,Japan,"Medical Research, Business Management, AI",Background description for student 431,Undergraduate
+STU0432,Student 432,Arts,3.41,South Africa,"Education Technology, Medical Research, Legal Studies",Background description for student 432,PhD
+STU0433,Student 433,Business,3.63,Germany,"AI, Machine Learning, Environmental Conservation",Background description for student 433,Masters
+STU0434,Student 434,Environmental Science,3.14,Japan,"Education Technology, Legal Studies, Creative Arts",Background description for student 434,Masters
+STU0435,Student 435,Education,2.21,UK,"Data Analysis, Business Management, Legal Studies",Background description for student 435,PhD
+STU0436,Student 436,Engineering,3.2,South Africa,"Medical Research, Business Management, Data Analysis",Background description for student 436,Masters
+STU0437,Student 437,Data Science,2.9,Brazil,"Creative Arts, Legal Studies, AI",Background description for student 437,PhD
+STU0438,Student 438,Arts,3.65,Brazil,"Machine Learning, Business Management, Medical Research",Background description for student 438,PhD
+STU0439,Student 439,Computer Science,3.57,Brazil,"Creative Arts, Education Technology, Data Analysis",Background description for student 439,Undergraduate
+STU0440,Student 440,Business,3.81,UAE,"Medical Research, AI, Legal Studies",Background description for student 440,Masters
+STU0441,Student 441,Engineering,3.04,India,"Machine Learning, Web Development, Medical Research",Background description for student 441,PhD
+STU0442,Student 442,Arts,3.78,Brazil,"Medical Research, Data Analysis, Creative Arts",Background description for student 442,PhD
+STU0443,Student 443,Data Science,4.07,Germany,"Business Management, Legal Studies, Creative Arts",Background description for student 443,Masters
+STU0444,Student 444,Computer Science,3.48,Canada,"Business Management, Environmental Conservation, Medical Research",Background description for student 444,Undergraduate
+STU0445,Student 445,Medicine,3.94,Germany,"Legal Studies, Web Development, Education Technology",Background description for student 445,Undergraduate
+STU0446,Student 446,Environmental Science,2.29,Australia,"Medical Research, Legal Studies, Education Technology",Background description for student 446,Undergraduate
+STU0447,Student 447,Arts,3.64,Germany,"Data Analysis, AI, Legal Studies",Background description for student 447,Masters
+STU0448,Student 448,Education,3.6,Brazil,"Legal Studies, Data Analysis, Environmental Conservation",Background description for student 448,Masters
+STU0449,Student 449,Data Science,3.92,India,"Education Technology, Data Analysis, Business Management",Background description for student 449,PhD
+STU0450,Student 450,Data Science,3.25,USA,"Data Analysis, Machine Learning, AI",Background description for student 450,Masters
+STU0451,Student 451,Environmental Science,3.44,India,"Environmental Conservation, Medical Research, Web Development",Background description for student 451,PhD
+STU0452,Student 452,Medicine,3.98,Australia,"Machine Learning, Business Management, Medical Research",Background description for student 452,PhD
+STU0453,Student 453,Data Science,3.44,Australia,"Business Management, AI, Medical Research",Background description for student 453,PhD
+STU0454,Student 454,Environmental Science,3.28,Japan,"Medical Research, Web Development, Data Analysis",Background description for student 454,Masters
+STU0455,Student 455,Environmental Science,2.15,Brazil,"Data Analysis, Medical Research, Legal Studies",Background description for student 455,Masters
+STU0456,Student 456,Law,3.76,Brazil,"Education Technology, AI, Machine Learning",Background description for student 456,PhD
+STU0457,Student 457,Data Science,3.65,India,"Education Technology, Environmental Conservation, Machine Learning",Background description for student 457,Undergraduate
+STU0458,Student 458,Environmental Science,3.89,UAE,"Legal Studies, Medical Research, Machine Learning",Background description for student 458,Undergraduate
+STU0459,Student 459,Engineering,3.52,Brazil,"Business Management, Legal Studies, Data Analysis",Background description for student 459,Undergraduate
+STU0460,Student 460,Data Science,4.5,Brazil,"Legal Studies, Business Management, Education Technology",Background description for student 460,Masters
+STU0461,Student 461,Education,3.22,Japan,"Education Technology, Web Development, Creative Arts",Background description for student 461,Undergraduate
+STU0462,Student 462,Engineering,2.8,South Africa,"AI, Business Management, Medical Research",Background description for student 462,PhD
+STU0463,Student 463,Education,2.81,UAE,"Education Technology, Machine Learning, AI",Background description for student 463,PhD
+STU0464,Student 464,Computer Science,3.94,Germany,"Legal Studies, Web Development, Education Technology",Background description for student 464,PhD
+STU0465,Student 465,Education,4.02,USA,"Data Analysis, Business Management, Creative Arts",Background description for student 465,PhD
+STU0466,Student 466,Law,3.54,Brazil,"Business Management, AI, Data Analysis",Background description for student 466,Masters
+STU0467,Student 467,Arts,3.22,USA,"Business Management, Environmental Conservation, AI",Background description for student 467,PhD
+STU0468,Student 468,Arts,3.22,Australia,"Legal Studies, Environmental Conservation, Education Technology",Background description for student 468,Masters
+STU0469,Student 469,Law,3.26,South Africa,"Data Analysis, Creative Arts, AI",Background description for student 469,Masters
+STU0470,Student 470,Arts,2.67,South Africa,"Legal Studies, Data Analysis, Creative Arts",Background description for student 470,Undergraduate
+STU0471,Student 471,Education,3.34,Japan,"AI, Business Management, Education Technology",Background description for student 471,Masters
+STU0472,Student 472,Arts,2.09,USA,"Data Analysis, AI, Machine Learning",Background description for student 472,Undergraduate
+STU0473,Student 473,Arts,3.13,UK,"Business Management, Web Development, Education Technology",Background description for student 473,PhD
+STU0474,Student 474,Business,4.37,Brazil,"Machine Learning, Business Management, Legal Studies",Background description for student 474,Undergraduate
+STU0475,Student 475,Medicine,3.57,UK,"Web Development, Legal Studies, Machine Learning",Background description for student 475,PhD
+STU0476,Student 476,Environmental Science,2.94,UK,"Web Development, Creative Arts, Business Management",Background description for student 476,Undergraduate
+STU0477,Student 477,Medicine,4.01,UK,"Education Technology, Web Development, Business Management",Background description for student 477,PhD
+STU0478,Student 478,Data Science,2.82,UK,"Machine Learning, Web Development, Education Technology",Background description for student 478,Undergraduate
+STU0479,Student 479,Law,3.91,Canada,"Environmental Conservation, Creative Arts, Education Technology",Background description for student 479,PhD
+STU0480,Student 480,Data Science,3.03,Australia,"AI, Creative Arts, Web Development",Background description for student 480,Undergraduate
+STU0481,Student 481,Computer Science,3.1,USA,"Creative Arts, Data Analysis, Education Technology",Background description for student 481,Masters
+STU0482,Student 482,Data Science,2.89,Japan,"Web Development, Environmental Conservation, Data Analysis",Background description for student 482,Undergraduate
+STU0483,Student 483,Medicine,3.83,Japan,"Data Analysis, Legal Studies, Machine Learning",Background description for student 483,Masters
+STU0484,Student 484,Environmental Science,3.53,USA,"Education Technology, Environmental Conservation, Web Development",Background description for student 484,Undergraduate
+STU0485,Student 485,Engineering,4.0,Canada,"Web Development, Education Technology, Medical Research",Background description for student 485,Undergraduate
+STU0486,Student 486,Business,3.37,India,"Education Technology, Business Management, Environmental Conservation",Background description for student 486,PhD
+STU0487,Student 487,Business,2.78,USA,"Medical Research, Machine Learning, Environmental Conservation",Background description for student 487,PhD
+STU0488,Student 488,Medicine,3.14,Brazil,"Education Technology, Medical Research, AI",Background description for student 488,Undergraduate
+STU0489,Student 489,Data Science,2.07,South Africa,"Medical Research, Creative Arts, Data Analysis",Background description for student 489,PhD
+STU0490,Student 490,Engineering,2.78,USA,"Data Analysis, Business Management, Web Development",Background description for student 490,Undergraduate
+STU0491,Student 491,Arts,3.01,Australia,"Creative Arts, Machine Learning, Web Development",Background description for student 491,PhD
+STU0492,Student 492,Education,3.52,Australia,"Legal Studies, Data Analysis, Education Technology",Background description for student 492,PhD
+STU0493,Student 493,Environmental Science,3.05,South Africa,"AI, Medical Research, Education Technology",Background description for student 493,Masters
+STU0494,Student 494,Law,2.75,Brazil,"Environmental Conservation, Web Development, Business Management",Background description for student 494,Undergraduate
+STU0495,Student 495,Business,3.11,USA,"Data Analysis, Creative Arts, Medical Research",Background description for student 495,Masters
+STU0496,Student 496,Arts,3.41,South Africa,"Data Analysis, Education Technology, Creative Arts",Background description for student 496,Masters
+STU0497,Student 497,Environmental Science,3.95,Brazil,"Web Development, Creative Arts, Business Management",Background description for student 497,Masters
+STU0498,Student 498,Business,4.73,Germany,"Environmental Conservation, Web Development, Education Technology",Background description for student 498,Masters
+STU0499,Student 499,Medicine,3.85,Japan,"Machine Learning, AI, Creative Arts",Background description for student 499,PhD
+STU0500,Student 500,Computer Science,2.83,India,"Data Analysis, Machine Learning, Education Technology",Background description for student 500,Undergraduate
+STU0501,Student 501,Computer Science,2.33,Germany,"Environmental Conservation, Machine Learning, AI",Background description for student 501,Masters
+STU0502,Student 502,Computer Science,2.93,Australia,"Machine Learning, Web Development, Medical Research",Background description for student 502,PhD
+STU0503,Student 503,Arts,3.26,Australia,"Data Analysis, Education Technology, Creative Arts",Background description for student 503,PhD
+STU0504,Student 504,Engineering,3.64,Canada,"Environmental Conservation, Machine Learning, Creative Arts",Background description for student 504,Undergraduate
+STU0505,Student 505,Business,3.75,Canada,"Medical Research, Data Analysis, Web Development",Background description for student 505,PhD
+STU0506,Student 506,Environmental Science,3.81,USA,"Web Development, Legal Studies, Business Management",Background description for student 506,Masters
+STU0507,Student 507,Environmental Science,2.84,Germany,"Legal Studies, AI, Environmental Conservation",Background description for student 507,Undergraduate
+STU0508,Student 508,Computer Science,3.14,South Africa,"Legal Studies, Web Development, Medical Research",Background description for student 508,Masters
+STU0509,Student 509,Education,3.34,Brazil,"Creative Arts, Education Technology, Medical Research",Background description for student 509,Masters
+STU0510,Student 510,Business,3.36,Japan,"Creative Arts, AI, Web Development",Background description for student 510,Undergraduate
+STU0511,Student 511,Medicine,3.79,India,"Education Technology, Data Analysis, Creative Arts",Background description for student 511,PhD
+STU0512,Student 512,Computer Science,4.34,Japan,"Creative Arts, AI, Environmental Conservation",Background description for student 512,PhD
+STU0513,Student 513,Computer Science,2.73,UK,"Legal Studies, Creative Arts, AI",Background description for student 513,PhD
+STU0514,Student 514,Medicine,3.68,USA,"Environmental Conservation, Business Management, Machine Learning",Background description for student 514,PhD
+STU0515,Student 515,Law,3.44,USA,"Environmental Conservation, Medical Research, Education Technology",Background description for student 515,PhD
+STU0516,Student 516,Law,3.75,India,"Creative Arts, Legal Studies, Environmental Conservation",Background description for student 516,Masters
+STU0517,Student 517,Arts,3.0,Germany,"Education Technology, Creative Arts, Environmental Conservation",Background description for student 517,Masters
+STU0518,Student 518,Education,3.55,UK,"Data Analysis, Legal Studies, Education Technology",Background description for student 518,PhD
+STU0519,Student 519,Data Science,3.3,Canada,"Business Management, AI, Environmental Conservation",Background description for student 519,Masters
+STU0520,Student 520,Law,3.32,USA,"Machine Learning, Medical Research, Data Analysis",Background description for student 520,Masters
+STU0521,Student 521,Environmental Science,3.52,India,"AI, Environmental Conservation, Legal Studies",Background description for student 521,Undergraduate
+STU0522,Student 522,Arts,3.06,Germany,"AI, Web Development, Education Technology",Background description for student 522,Undergraduate
+STU0523,Student 523,Engineering,3.45,Brazil,"Web Development, Creative Arts, Environmental Conservation",Background description for student 523,Masters
+STU0524,Student 524,Engineering,3.35,UK,"Business Management, Education Technology, Web Development",Background description for student 524,Masters
+STU0525,Student 525,Law,3.65,Japan,"AI, Web Development, Education Technology",Background description for student 525,Undergraduate
+STU0526,Student 526,Medicine,3.24,USA,"Creative Arts, Business Management, Machine Learning",Background description for student 526,Masters
+STU0527,Student 527,Data Science,3.01,UK,"Web Development, Business Management, Machine Learning",Background description for student 527,Undergraduate
+STU0528,Student 528,Data Science,3.38,UK,"Data Analysis, Environmental Conservation, Legal Studies",Background description for student 528,Undergraduate
+STU0529,Student 529,Law,3.59,Japan,"Legal Studies, Business Management, Web Development",Background description for student 529,Undergraduate
+STU0530,Student 530,Law,3.57,UK,"Legal Studies, Medical Research, Creative Arts",Background description for student 530,Undergraduate
+STU0531,Student 531,Arts,3.61,USA,"Environmental Conservation, Legal Studies, Education Technology",Background description for student 531,Masters
+STU0532,Student 532,Engineering,2.78,UAE,"Creative Arts, Legal Studies, AI",Background description for student 532,PhD
+STU0533,Student 533,Medicine,3.56,Germany,"Business Management, Environmental Conservation, Creative Arts",Background description for student 533,PhD
+STU0534,Student 534,Environmental Science,3.44,UK,"Environmental Conservation, Creative Arts, Medical Research",Background description for student 534,Undergraduate
+STU0535,Student 535,Engineering,3.15,India,"Business Management, Creative Arts, Web Development",Background description for student 535,PhD
+STU0536,Student 536,Environmental Science,3.59,Japan,"Legal Studies, Machine Learning, Environmental Conservation",Background description for student 536,Masters
+STU0537,Student 537,Law,3.62,Japan,"Machine Learning, Business Management, Education Technology",Background description for student 537,Masters
+STU0538,Student 538,Computer Science,3.09,Australia,"Creative Arts, Web Development, Machine Learning",Background description for student 538,Masters
+STU0539,Student 539,Medicine,4.43,USA,"Web Development, Creative Arts, Environmental Conservation",Background description for student 539,Masters
+STU0540,Student 540,Business,2.92,India,"Medical Research, Machine Learning, Business Management",Background description for student 540,PhD
+STU0541,Student 541,Business,3.04,Australia,"Machine Learning, Web Development, Legal Studies",Background description for student 541,Masters
+STU0542,Student 542,Business,3.16,UAE,"Education Technology, Data Analysis, Business Management",Background description for student 542,Undergraduate
+STU0543,Student 543,Engineering,2.54,Germany,"Machine Learning, Environmental Conservation, Medical Research",Background description for student 543,PhD
+STU0544,Student 544,Business,3.52,USA,"Business Management, AI, Data Analysis",Background description for student 544,Undergraduate
+STU0545,Student 545,Arts,3.67,Canada,"Creative Arts, Medical Research, Machine Learning",Background description for student 545,Undergraduate
+STU0546,Student 546,Arts,3.77,USA,"Education Technology, Web Development, Legal Studies",Background description for student 546,PhD
+STU0547,Student 547,Data Science,3.54,USA,"Machine Learning, Web Development, Creative Arts",Background description for student 547,Undergraduate
+STU0548,Student 548,Engineering,3.37,India,"Machine Learning, Legal Studies, Environmental Conservation",Background description for student 548,Masters
+STU0549,Student 549,Computer Science,2.88,Japan,"Environmental Conservation, Creative Arts, Business Management",Background description for student 549,Masters
+STU0550,Student 550,Business,2.69,South Africa,"Education Technology, Legal Studies, AI",Background description for student 550,PhD
+STU0551,Student 551,Environmental Science,3.54,Germany,"Creative Arts, Education Technology, Environmental Conservation",Background description for student 551,PhD
+STU0552,Student 552,Engineering,2.62,Japan,"AI, Creative Arts, Machine Learning",Background description for student 552,Masters
+STU0553,Student 553,Law,3.38,Japan,"Machine Learning, AI, Web Development",Background description for student 553,Undergraduate
+STU0554,Student 554,Arts,3.52,UK,"AI, Business Management, Creative Arts",Background description for student 554,Undergraduate
+STU0555,Student 555,Computer Science,3.35,Germany,"Creative Arts, Legal Studies, Web Development",Background description for student 555,PhD
+STU0556,Student 556,Law,3.83,South Africa,"Legal Studies, Business Management, AI",Background description for student 556,Undergraduate
+STU0557,Student 557,Law,3.74,Canada,"Machine Learning, Medical Research, Data Analysis",Background description for student 557,PhD
+STU0558,Student 558,Data Science,2.54,Brazil,"Business Management, AI, Medical Research",Background description for student 558,Undergraduate
+STU0559,Student 559,Medicine,2.98,Canada,"Business Management, Creative Arts, Medical Research",Background description for student 559,Undergraduate
+STU0560,Student 560,Data Science,2.35,UK,"Machine Learning, Medical Research, Education Technology",Background description for student 560,Undergraduate
+STU0561,Student 561,Environmental Science,3.4,UAE,"Data Analysis, Creative Arts, AI",Background description for student 561,PhD
+STU0562,Student 562,Environmental Science,2.95,Japan,"Environmental Conservation, Machine Learning, Education Technology",Background description for student 562,Undergraduate
+STU0563,Student 563,Data Science,3.58,USA,"Education Technology, Data Analysis, Medical Research",Background description for student 563,PhD
+STU0564,Student 564,Environmental Science,3.37,Germany,"Web Development, Machine Learning, Data Analysis",Background description for student 564,Masters
+STU0565,Student 565,Arts,2.72,India,"Education Technology, Creative Arts, Web Development",Background description for student 565,PhD
+STU0566,Student 566,Education,3.26,Japan,"Medical Research, Web Development, Machine Learning",Background description for student 566,Masters
+STU0567,Student 567,Education,3.27,Canada,"Legal Studies, Education Technology, Machine Learning",Background description for student 567,PhD
+STU0568,Student 568,Environmental Science,3.25,UAE,"Education Technology, Legal Studies, Data Analysis",Background description for student 568,Undergraduate
+STU0569,Student 569,Medicine,3.24,Australia,"Education Technology, Machine Learning, Legal Studies",Background description for student 569,Masters
+STU0570,Student 570,Engineering,3.34,Brazil,"Data Analysis, Legal Studies, Education Technology",Background description for student 570,Masters
+STU0571,Student 571,Data Science,3.74,Japan,"AI, Web Development, Business Management",Background description for student 571,Masters
+STU0572,Student 572,Engineering,4.02,India,"Legal Studies, Medical Research, Data Analysis",Background description for student 572,Masters
+STU0573,Student 573,Business,3.74,Germany,"Web Development, Business Management, Machine Learning",Background description for student 573,Masters
+STU0574,Student 574,Education,1.9,India,"Creative Arts, AI, Legal Studies",Background description for student 574,Undergraduate
+STU0575,Student 575,Computer Science,2.95,Germany,"AI, Web Development, Creative Arts",Background description for student 575,PhD
+STU0576,Student 576,Law,3.25,Germany,"Legal Studies, Creative Arts, Medical Research",Background description for student 576,Masters
+STU0577,Student 577,Business,3.53,USA,"Medical Research, AI, Machine Learning",Background description for student 577,Undergraduate
+STU0578,Student 578,Data Science,2.62,Germany,"Legal Studies, Machine Learning, Data Analysis",Background description for student 578,Undergraduate
+STU0579,Student 579,Arts,3.46,Brazil,"Education Technology, Medical Research, Legal Studies",Background description for student 579,Undergraduate
+STU0580,Student 580,Engineering,3.87,USA,"AI, Legal Studies, Web Development",Background description for student 580,Undergraduate
+STU0581,Student 581,Education,3.47,Canada,"Legal Studies, Data Analysis, Creative Arts",Background description for student 581,Masters
+STU0582,Student 582,Law,3.2,Germany,"Machine Learning, Creative Arts, Education Technology",Background description for student 582,Masters
+STU0583,Student 583,Arts,3.23,Australia,"Machine Learning, Environmental Conservation, Legal Studies",Background description for student 583,Undergraduate
+STU0584,Student 584,Law,3.18,Germany,"AI, Legal Studies, Environmental Conservation",Background description for student 584,PhD
+STU0585,Student 585,Data Science,2.25,Brazil,"AI, Web Development, Data Analysis",Background description for student 585,PhD
+STU0586,Student 586,Data Science,3.24,Australia,"Legal Studies, Creative Arts, Web Development",Background description for student 586,Masters
+STU0587,Student 587,Environmental Science,2.55,USA,"Education Technology, Legal Studies, Machine Learning",Background description for student 587,PhD
+STU0588,Student 588,Law,3.11,Germany,"Web Development, Environmental Conservation, Creative Arts",Background description for student 588,Undergraduate
+STU0589,Student 589,Data Science,3.42,India,"Creative Arts, Legal Studies, Medical Research",Background description for student 589,Undergraduate
+STU0590,Student 590,Arts,2.74,Australia,"Environmental Conservation, Data Analysis, Web Development",Background description for student 590,Undergraduate
+STU0591,Student 591,Computer Science,2.71,UAE,"Education Technology, Business Management, Medical Research",Background description for student 591,Masters
+STU0592,Student 592,Environmental Science,2.31,India,"Education Technology, AI, Legal Studies",Background description for student 592,Masters
+STU0593,Student 593,Computer Science,3.57,South Africa,"Legal Studies, Environmental Conservation, Machine Learning",Background description for student 593,Masters
+STU0594,Student 594,Medicine,2.95,UAE,"Machine Learning, Web Development, Legal Studies",Background description for student 594,Undergraduate
+STU0595,Student 595,Computer Science,3.14,Australia,"Medical Research, Machine Learning, Environmental Conservation",Background description for student 595,Undergraduate
+STU0596,Student 596,Medicine,3.47,Australia,"Data Analysis, Legal Studies, Business Management",Background description for student 596,PhD
+STU0597,Student 597,Medicine,3.56,Canada,"Medical Research, Data Analysis, Creative Arts",Background description for student 597,Masters
+STU0598,Student 598,Computer Science,3.85,Brazil,"Data Analysis, Medical Research, Web Development",Background description for student 598,PhD
+STU0599,Student 599,Computer Science,3.71,Australia,"Business Management, Machine Learning, Web Development",Background description for student 599,PhD
+STU0600,Student 600,Engineering,3.33,Australia,"Business Management, Education Technology, Machine Learning",Background description for student 600,Undergraduate
+STU0601,Student 601,Engineering,3.0,Canada,"Machine Learning, Legal Studies, Business Management",Background description for student 601,Masters
+STU0602,Student 602,Engineering,2.89,Japan,"Education Technology, Legal Studies, Environmental Conservation",Background description for student 602,PhD
+STU0603,Student 603,Arts,3.25,Japan,"Machine Learning, Education Technology, Environmental Conservation",Background description for student 603,Undergraduate
+STU0604,Student 604,Medicine,3.6,Canada,"Legal Studies, Environmental Conservation, Creative Arts",Background description for student 604,Undergraduate
+STU0605,Student 605,Medicine,2.36,India,"Machine Learning, Business Management, Data Analysis",Background description for student 605,PhD
+STU0606,Student 606,Environmental Science,3.24,India,"Creative Arts, Machine Learning, AI",Background description for student 606,Masters
+STU0607,Student 607,Environmental Science,3.39,Canada,"Education Technology, Web Development, AI",Background description for student 607,Undergraduate
+STU0608,Student 608,Law,2.79,USA,"Legal Studies, Web Development, Medical Research",Background description for student 608,PhD
+STU0609,Student 609,Engineering,2.22,UK,"Web Development, Education Technology, Legal Studies",Background description for student 609,Undergraduate
+STU0610,Student 610,Law,2.62,Australia,"Environmental Conservation, Machine Learning, Legal Studies",Background description for student 610,PhD
+STU0611,Student 611,Law,2.35,UK,"Environmental Conservation, Legal Studies, AI",Background description for student 611,PhD
+STU0612,Student 612,Education,2.86,Brazil,"Environmental Conservation, Web Development, Education Technology",Background description for student 612,Masters
+STU0613,Student 613,Engineering,2.49,Germany,"Education Technology, Medical Research, Legal Studies",Background description for student 613,PhD
+STU0614,Student 614,Computer Science,2.9,Canada,"AI, Data Analysis, Business Management",Background description for student 614,PhD
+STU0615,Student 615,Education,2.9,Canada,"Environmental Conservation, Web Development, Business Management",Background description for student 615,Masters
+STU0616,Student 616,Computer Science,2.95,Brazil,"Medical Research, Machine Learning, Web Development",Background description for student 616,Masters
+STU0617,Student 617,Data Science,4.44,Brazil,"AI, Data Analysis, Business Management",Background description for student 617,PhD
+STU0618,Student 618,Data Science,3.08,Australia,"Legal Studies, Environmental Conservation, Education Technology",Background description for student 618,Masters
+STU0619,Student 619,Arts,2.93,Canada,"Business Management, Legal Studies, Medical Research",Background description for student 619,Masters
+STU0620,Student 620,Environmental Science,2.98,Germany,"Environmental Conservation, Data Analysis, AI",Background description for student 620,PhD
+STU0621,Student 621,Computer Science,2.27,UK,"Web Development, Legal Studies, AI",Background description for student 621,PhD
+STU0622,Student 622,Arts,3.48,Germany,"Environmental Conservation, Medical Research, Education Technology",Background description for student 622,Undergraduate
+STU0623,Student 623,Business,2.9,Australia,"AI, Legal Studies, Education Technology",Background description for student 623,PhD
+STU0624,Student 624,Arts,3.43,South Africa,"Creative Arts, Education Technology, Data Analysis",Background description for student 624,PhD
+STU0625,Student 625,Engineering,3.97,South Africa,"Environmental Conservation, Data Analysis, Business Management",Background description for student 625,Undergraduate
+STU0626,Student 626,Medicine,3.79,USA,"Web Development, Business Management, Creative Arts",Background description for student 626,Masters
+STU0627,Student 627,Arts,2.18,USA,"Data Analysis, Business Management, AI",Background description for student 627,Masters
+STU0628,Student 628,Computer Science,3.65,UK,"Creative Arts, Medical Research, Web Development",Background description for student 628,Masters
+STU0629,Student 629,Data Science,2.5,UAE,"Web Development, Creative Arts, Legal Studies",Background description for student 629,Masters
+STU0630,Student 630,Medicine,3.54,Australia,"Medical Research, Web Development, Machine Learning",Background description for student 630,PhD
+STU0631,Student 631,Medicine,3.0,Japan,"Data Analysis, Machine Learning, AI",Background description for student 631,Undergraduate
+STU0632,Student 632,Engineering,3.19,South Africa,"Machine Learning, Web Development, Medical Research",Background description for student 632,Undergraduate
+STU0633,Student 633,Law,2.89,Australia,"Web Development, Machine Learning, Environmental Conservation",Background description for student 633,Undergraduate
+STU0634,Student 634,Business,2.85,Brazil,"Education Technology, Environmental Conservation, Machine Learning",Background description for student 634,PhD
+STU0635,Student 635,Medicine,2.98,Germany,"Business Management, Education Technology, Web Development",Background description for student 635,Masters
+STU0636,Student 636,Business,1.9,UAE,"Data Analysis, Machine Learning, Web Development",Background description for student 636,Undergraduate
+STU0637,Student 637,Business,3.64,Australia,"Machine Learning, Medical Research, AI",Background description for student 637,PhD
+STU0638,Student 638,Engineering,2.58,Germany,"Education Technology, Creative Arts, AI",Background description for student 638,PhD
+STU0639,Student 639,Engineering,3.21,Japan,"Legal Studies, Education Technology, Data Analysis",Background description for student 639,Masters
+STU0640,Student 640,Computer Science,2.4,Canada,"Data Analysis, Web Development, Business Management",Background description for student 640,Undergraduate
+STU0641,Student 641,Engineering,3.1,UK,"Data Analysis, Medical Research, Machine Learning",Background description for student 641,Undergraduate
+STU0642,Student 642,Environmental Science,3.32,Germany,"Environmental Conservation, AI, Machine Learning",Background description for student 642,Masters
+STU0643,Student 643,Business,2.91,UK,"Environmental Conservation, Data Analysis, Creative Arts",Background description for student 643,Undergraduate
+STU0644,Student 644,Arts,3.55,Japan,"Medical Research, Legal Studies, Business Management",Background description for student 644,PhD
+STU0645,Student 645,Engineering,3.57,Australia,"Legal Studies, Medical Research, Web Development",Background description for student 645,Masters
+STU0646,Student 646,Arts,2.54,USA,"Environmental Conservation, Medical Research, AI",Background description for student 646,PhD
+STU0647,Student 647,Engineering,3.68,Brazil,"Creative Arts, Environmental Conservation, Web Development",Background description for student 647,Undergraduate
+STU0648,Student 648,Engineering,3.46,Japan,"Machine Learning, Education Technology, Legal Studies",Background description for student 648,PhD
+STU0649,Student 649,Arts,2.74,South Africa,"Data Analysis, Business Management, Medical Research",Background description for student 649,Undergraduate
+STU0650,Student 650,Computer Science,3.67,Brazil,"Machine Learning, Creative Arts, Medical Research",Background description for student 650,Masters
+STU0651,Student 651,Environmental Science,2.46,Germany,"Education Technology, Legal Studies, Web Development",Background description for student 651,Undergraduate
+STU0652,Student 652,Education,3.16,UK,"Education Technology, Environmental Conservation, Legal Studies",Background description for student 652,Masters
+STU0653,Student 653,Engineering,2.35,Canada,"Environmental Conservation, Data Analysis, Web Development",Background description for student 653,PhD
+STU0654,Student 654,Engineering,3.22,UAE,"Legal Studies, AI, Medical Research",Background description for student 654,PhD
+STU0655,Student 655,Medicine,2.92,Australia,"Environmental Conservation, Machine Learning, Legal Studies",Background description for student 655,PhD
+STU0656,Student 656,Computer Science,2.25,Canada,"Machine Learning, Medical Research, AI",Background description for student 656,PhD
+STU0657,Student 657,Business,2.72,Australia,"Web Development, Environmental Conservation, Machine Learning",Background description for student 657,Masters
+STU0658,Student 658,Engineering,3.3,UK,"Creative Arts, Education Technology, Data Analysis",Background description for student 658,Undergraduate
+STU0659,Student 659,Computer Science,3.59,Japan,"Environmental Conservation, Web Development, Education Technology",Background description for student 659,PhD
+STU0660,Student 660,Environmental Science,3.09,India,"Business Management, AI, Education Technology",Background description for student 660,Masters
+STU0661,Student 661,Medicine,3.18,South Africa,"Machine Learning, Environmental Conservation, Education Technology",Background description for student 661,Masters
+STU0662,Student 662,Arts,2.51,UK,"Legal Studies, Web Development, Data Analysis",Background description for student 662,PhD
+STU0663,Student 663,Business,3.54,Canada,"Medical Research, AI, Business Management",Background description for student 663,Undergraduate
+STU0664,Student 664,Education,4.18,Brazil,"Education Technology, Medical Research, Data Analysis",Background description for student 664,Masters
+STU0665,Student 665,Computer Science,3.37,UAE,"Business Management, Machine Learning, Environmental Conservation",Background description for student 665,Masters
+STU0666,Student 666,Medicine,3.57,Germany,"AI, Education Technology, Environmental Conservation",Background description for student 666,Masters
+STU0667,Student 667,Education,3.53,UK,"AI, Creative Arts, Machine Learning",Background description for student 667,PhD
+STU0668,Student 668,Arts,4.4,USA,"Education Technology, AI, Medical Research",Background description for student 668,Masters
+STU0669,Student 669,Law,3.24,India,"AI, Machine Learning, Web Development",Background description for student 669,Undergraduate
+STU0670,Student 670,Law,3.35,UK,"Education Technology, Data Analysis, Environmental Conservation",Background description for student 670,Masters
+STU0671,Student 671,Engineering,3.33,UK,"AI, Business Management, Creative Arts",Background description for student 671,Masters
+STU0672,Student 672,Arts,3.54,Australia,"Data Analysis, AI, Legal Studies",Background description for student 672,Masters
+STU0673,Student 673,Environmental Science,3.26,Canada,"Environmental Conservation, AI, Legal Studies",Background description for student 673,PhD
+STU0674,Student 674,Computer Science,3.31,Brazil,"Medical Research, Data Analysis, Machine Learning",Background description for student 674,PhD
+STU0675,Student 675,Environmental Science,2.87,South Africa,"Business Management, Legal Studies, Creative Arts",Background description for student 675,Masters
+STU0676,Student 676,Business,2.29,Brazil,"Machine Learning, Creative Arts, Web Development",Background description for student 676,PhD
+STU0677,Student 677,Environmental Science,3.44,Japan,"Machine Learning, Creative Arts, AI",Background description for student 677,PhD
+STU0678,Student 678,Data Science,4.0,South Africa,"Legal Studies, Web Development, AI",Background description for student 678,Undergraduate
+STU0679,Student 679,Education,3.44,Brazil,"Web Development, Business Management, Creative Arts",Background description for student 679,Undergraduate
+STU0680,Student 680,Arts,2.88,UAE,"Web Development, Medical Research, Creative Arts",Background description for student 680,Masters
+STU0681,Student 681,Arts,2.79,Canada,"Medical Research, Environmental Conservation, AI",Background description for student 681,Masters
+STU0682,Student 682,Computer Science,2.69,Germany,"Medical Research, Data Analysis, Education Technology",Background description for student 682,Masters
+STU0683,Student 683,Computer Science,3.41,UK,"Machine Learning, Data Analysis, Business Management",Background description for student 683,Masters
+STU0684,Student 684,Data Science,2.35,Australia,"Machine Learning, Creative Arts, Business Management",Background description for student 684,PhD
+STU0685,Student 685,Medicine,2.79,USA,"Creative Arts, Education Technology, Web Development",Background description for student 685,Undergraduate
+STU0686,Student 686,Medicine,3.38,Australia,"Machine Learning, Web Development, Education Technology",Background description for student 686,Undergraduate
+STU0687,Student 687,Engineering,3.37,Germany,"Creative Arts, Legal Studies, Business Management",Background description for student 687,PhD
+STU0688,Student 688,Medicine,2.4,UK,"Education Technology, AI, Machine Learning",Background description for student 688,Masters
+STU0689,Student 689,Data Science,2.49,UAE,"Data Analysis, Environmental Conservation, Web Development",Background description for student 689,Masters
+STU0690,Student 690,Data Science,3.21,India,"Environmental Conservation, Machine Learning, Medical Research",Background description for student 690,Masters
+STU0691,Student 691,Engineering,3.98,UAE,"Education Technology, Medical Research, Machine Learning",Background description for student 691,Undergraduate
+STU0692,Student 692,Business,3.21,South Africa,"Machine Learning, Legal Studies, Business Management",Background description for student 692,Undergraduate
+STU0693,Student 693,Law,3.09,Germany,"AI, Legal Studies, Business Management",Background description for student 693,Masters
+STU0694,Student 694,Data Science,2.94,Canada,"Creative Arts, Environmental Conservation, Web Development",Background description for student 694,Undergraduate
+STU0695,Student 695,Medicine,3.35,South Africa,"Data Analysis, Environmental Conservation, Web Development",Background description for student 695,Masters
+STU0696,Student 696,Medicine,3.51,USA,"Creative Arts, Business Management, Education Technology",Background description for student 696,Masters
+STU0697,Student 697,Data Science,3.43,Australia,"Medical Research, Creative Arts, AI",Background description for student 697,Masters
+STU0698,Student 698,Engineering,2.93,UAE,"Data Analysis, Machine Learning, Business Management",Background description for student 698,Masters
+STU0699,Student 699,Education,2.86,India,"Machine Learning, Business Management, Education Technology",Background description for student 699,Masters
+STU0700,Student 700,Business,2.59,India,"Environmental Conservation, Web Development, Medical Research",Background description for student 700,PhD
+STU0701,Student 701,Business,3.3,Australia,"Data Analysis, Environmental Conservation, Creative Arts",Background description for student 701,Undergraduate
+STU0702,Student 702,Arts,3.37,Brazil,"Web Development, Machine Learning, Creative Arts",Background description for student 702,PhD
+STU0703,Student 703,Medicine,3.0,Canada,"Creative Arts, Education Technology, Legal Studies",Background description for student 703,Undergraduate
+STU0704,Student 704,Education,3.33,USA,"Medical Research, Legal Studies, Machine Learning",Background description for student 704,PhD
+STU0705,Student 705,Education,3.42,Canada,"Medical Research, AI, Education Technology",Background description for student 705,Masters
+STU0706,Student 706,Medicine,3.38,Germany,"Legal Studies, Education Technology, Medical Research",Background description for student 706,Undergraduate
+STU0707,Student 707,Computer Science,3.1,Japan,"Business Management, Legal Studies, Web Development",Background description for student 707,Masters
+STU0708,Student 708,Environmental Science,3.31,UAE,"Environmental Conservation, Legal Studies, Medical Research",Background description for student 708,Masters
+STU0709,Student 709,Arts,2.72,Brazil,"Web Development, Environmental Conservation, Data Analysis",Background description for student 709,Undergraduate
+STU0710,Student 710,Computer Science,3.39,UAE,"Education Technology, Environmental Conservation, Web Development",Background description for student 710,Masters
+STU0711,Student 711,Law,3.64,UK,"Business Management, Legal Studies, Web Development",Background description for student 711,Masters
+STU0712,Student 712,Computer Science,2.77,Brazil,"Education Technology, AI, Creative Arts",Background description for student 712,Undergraduate
+STU0713,Student 713,Environmental Science,2.78,Japan,"Machine Learning, Legal Studies, Creative Arts",Background description for student 713,Masters
+STU0714,Student 714,Law,2.97,Australia,"Medical Research, Environmental Conservation, AI",Background description for student 714,PhD
+STU0715,Student 715,Medicine,2.72,Germany,"Web Development, Legal Studies, Machine Learning",Background description for student 715,PhD
+STU0716,Student 716,Data Science,4.52,UAE,"Web Development, Creative Arts, Education Technology",Background description for student 716,Masters
+STU0717,Student 717,Medicine,4.37,UAE,"Business Management, Environmental Conservation, Machine Learning",Background description for student 717,Undergraduate
+STU0718,Student 718,Medicine,2.98,Germany,"Creative Arts, AI, Business Management",Background description for student 718,PhD
+STU0719,Student 719,Arts,3.13,Germany,"Environmental Conservation, Creative Arts, Web Development",Background description for student 719,PhD
+STU0720,Student 720,Law,3.83,Australia,"Medical Research, AI, Creative Arts",Background description for student 720,Masters
+STU0721,Student 721,Business,3.32,UK,"Business Management, Machine Learning, Web Development",Background description for student 721,PhD
+STU0722,Student 722,Business,3.66,Australia,"Data Analysis, Business Management, Environmental Conservation",Background description for student 722,Undergraduate
+STU0723,Student 723,Engineering,3.04,UAE,"Environmental Conservation, Business Management, Medical Research",Background description for student 723,Masters
+STU0724,Student 724,Medicine,3.8,UK,"AI, Environmental Conservation, Business Management",Background description for student 724,PhD
+STU0725,Student 725,Business,2.73,Japan,"Medical Research, Web Development, Machine Learning",Background description for student 725,PhD
+STU0726,Student 726,Data Science,2.88,USA,"Environmental Conservation, Web Development, Legal Studies",Background description for student 726,Undergraduate
+STU0727,Student 727,Education,2.66,Brazil,"Machine Learning, Creative Arts, Environmental Conservation",Background description for student 727,Masters
+STU0728,Student 728,Engineering,3.02,UK,"Web Development, Education Technology, Machine Learning",Background description for student 728,Undergraduate
+STU0729,Student 729,Arts,2.97,South Africa,"Creative Arts, Environmental Conservation, Medical Research",Background description for student 729,Undergraduate
+STU0730,Student 730,Law,3.88,Germany,"Creative Arts, Education Technology, Data Analysis",Background description for student 730,Undergraduate
+STU0731,Student 731,Law,2.94,South Africa,"Legal Studies, Medical Research, Data Analysis",Background description for student 731,PhD
+STU0732,Student 732,Data Science,3.76,Canada,"Business Management, Education Technology, AI",Background description for student 732,PhD
+STU0733,Student 733,Environmental Science,2.77,India,"Environmental Conservation, Education Technology, Creative Arts",Background description for student 733,PhD
+STU0734,Student 734,Medicine,1.97,UAE,"Education Technology, Medical Research, AI",Background description for student 734,PhD
+STU0735,Student 735,Data Science,2.45,UAE,"Creative Arts, Medical Research, Legal Studies",Background description for student 735,Masters
+STU0736,Student 736,Law,3.94,South Africa,"Creative Arts, Environmental Conservation, Web Development",Background description for student 736,Masters
+STU0737,Student 737,Data Science,2.83,Germany,"Environmental Conservation, AI, Medical Research",Background description for student 737,Undergraduate
+STU0738,Student 738,Education,3.48,Canada,"Machine Learning, Education Technology, Medical Research",Background description for student 738,PhD
+STU0739,Student 739,Education,3.75,India,"Education Technology, Environmental Conservation, Data Analysis",Background description for student 739,Undergraduate
+STU0740,Student 740,Law,3.55,USA,"Education Technology, Business Management, Creative Arts",Background description for student 740,Masters
+STU0741,Student 741,Data Science,2.25,Brazil,"Creative Arts, AI, Machine Learning",Background description for student 741,PhD
+STU0742,Student 742,Arts,3.94,USA,"Medical Research, AI, Creative Arts",Background description for student 742,Masters
+STU0743,Student 743,Education,2.73,Brazil,"Data Analysis, Web Development, Creative Arts",Background description for student 743,Masters
+STU0744,Student 744,Computer Science,2.35,UK,"Business Management, Environmental Conservation, Web Development",Background description for student 744,Masters
+STU0745,Student 745,Education,3.67,UK,"Creative Arts, AI, Web Development",Background description for student 745,Masters
+STU0746,Student 746,Education,3.28,Canada,"Medical Research, Business Management, Creative Arts",Background description for student 746,Masters
+STU0747,Student 747,Data Science,2.52,USA,"Creative Arts, Environmental Conservation, Education Technology",Background description for student 747,Undergraduate
+STU0748,Student 748,Education,2.87,UK,"Environmental Conservation, Business Management, Web Development",Background description for student 748,PhD
+STU0749,Student 749,Environmental Science,3.3,Brazil,"Business Management, Machine Learning, Creative Arts",Background description for student 749,PhD
+STU0750,Student 750,Medicine,3.46,UAE,"Web Development, Creative Arts, Legal Studies",Background description for student 750,Undergraduate
+STU0751,Student 751,Education,2.91,Germany,"Education Technology, Medical Research, AI",Background description for student 751,Masters
+STU0752,Student 752,Medicine,3.37,Japan,"Environmental Conservation, Medical Research, Data Analysis",Background description for student 752,Undergraduate
+STU0753,Student 753,Business,3.07,UAE,"Business Management, Data Analysis, Environmental Conservation",Background description for student 753,Undergraduate
+STU0754,Student 754,Medicine,3.19,South Africa,"Education Technology, Environmental Conservation, AI",Background description for student 754,Undergraduate
+STU0755,Student 755,Engineering,3.24,UAE,"Data Analysis, Legal Studies, Environmental Conservation",Background description for student 755,Masters
+STU0756,Student 756,Arts,2.64,Canada,"Education Technology, Environmental Conservation, Web Development",Background description for student 756,Undergraduate
+STU0757,Student 757,Education,3.71,Japan,"Machine Learning, Data Analysis, Education Technology",Background description for student 757,Masters
+STU0758,Student 758,Environmental Science,3.73,Canada,"Data Analysis, Legal Studies, Machine Learning",Background description for student 758,Masters
+STU0759,Student 759,Data Science,2.63,Brazil,"Education Technology, Data Analysis, Legal Studies",Background description for student 759,PhD
+STU0760,Student 760,Business,3.07,Germany,"Data Analysis, Education Technology, Creative Arts",Background description for student 760,Undergraduate
+STU0761,Student 761,Data Science,3.52,South Africa,"Medical Research, Data Analysis, Creative Arts",Background description for student 761,PhD
+STU0762,Student 762,Environmental Science,2.67,Japan,"Machine Learning, Creative Arts, AI",Background description for student 762,PhD
+STU0763,Student 763,Education,3.24,UK,"Medical Research, Web Development, Environmental Conservation",Background description for student 763,Undergraduate
+STU0764,Student 764,Law,2.88,USA,"Education Technology, Environmental Conservation, Medical Research",Background description for student 764,Masters
+STU0765,Student 765,Environmental Science,2.83,Germany,"Medical Research, Web Development, Creative Arts",Background description for student 765,Masters
+STU0766,Student 766,Education,3.19,USA,"Environmental Conservation, Medical Research, Education Technology",Background description for student 766,Masters
+STU0767,Student 767,Environmental Science,2.99,UK,"Creative Arts, Web Development, Data Analysis",Background description for student 767,Masters
+STU0768,Student 768,Computer Science,3.19,South Africa,"Creative Arts, Machine Learning, Legal Studies",Background description for student 768,Masters
+STU0769,Student 769,Arts,4.01,Canada,"Legal Studies, AI, Creative Arts",Background description for student 769,Undergraduate
+STU0770,Student 770,Law,3.7,Japan,"Business Management, Creative Arts, Data Analysis",Background description for student 770,Masters
+STU0771,Student 771,Environmental Science,2.62,UAE,"Web Development, Environmental Conservation, Data Analysis",Background description for student 771,PhD
+STU0772,Student 772,Environmental Science,3.73,Australia,"Data Analysis, Medical Research, Business Management",Background description for student 772,Undergraduate
+STU0773,Student 773,Law,3.14,India,"Machine Learning, Environmental Conservation, Web Development",Background description for student 773,PhD
+STU0774,Student 774,Arts,3.98,USA,"Legal Studies, Creative Arts, Web Development",Background description for student 774,PhD
+STU0775,Student 775,Data Science,3.36,India,"Data Analysis, Business Management, Legal Studies",Background description for student 775,PhD
+STU0776,Student 776,Law,3.38,Brazil,"Creative Arts, Legal Studies, Environmental Conservation",Background description for student 776,PhD
+STU0777,Student 777,Medicine,3.1,Germany,"Web Development, Creative Arts, Data Analysis",Background description for student 777,Undergraduate
+STU0778,Student 778,Business,3.14,UAE,"Legal Studies, Machine Learning, Data Analysis",Background description for student 778,Masters
+STU0779,Student 779,Business,3.14,Brazil,"Machine Learning, AI, Web Development",Background description for student 779,Masters
+STU0780,Student 780,Data Science,3.8,UAE,"Web Development, Legal Studies, Business Management",Background description for student 780,PhD
+STU0781,Student 781,Education,3.15,Australia,"Education Technology, AI, Medical Research",Background description for student 781,PhD
+STU0782,Student 782,Environmental Science,3.09,South Africa,"Education Technology, Machine Learning, Environmental Conservation",Background description for student 782,PhD
+STU0783,Student 783,Business,3.16,Canada,"Legal Studies, Data Analysis, Education Technology",Background description for student 783,Masters
+STU0784,Student 784,Arts,2.67,Australia,"Data Analysis, Medical Research, Creative Arts",Background description for student 784,Undergraduate
+STU0785,Student 785,Law,2.69,USA,"Legal Studies, Web Development, Education Technology",Background description for student 785,Undergraduate
+STU0786,Student 786,Business,2.71,Canada,"Legal Studies, Creative Arts, Machine Learning",Background description for student 786,Undergraduate
+STU0787,Student 787,Data Science,2.91,UK,"AI, Web Development, Business Management",Background description for student 787,PhD
+STU0788,Student 788,Environmental Science,3.55,UAE,"Legal Studies, Creative Arts, Environmental Conservation",Background description for student 788,PhD
+STU0789,Student 789,Environmental Science,3.04,Japan,"Legal Studies, Medical Research, Environmental Conservation",Background description for student 789,PhD
+STU0790,Student 790,Medicine,3.29,USA,"Machine Learning, AI, Medical Research",Background description for student 790,Undergraduate
+STU0791,Student 791,Computer Science,3.75,UAE,"Machine Learning, Legal Studies, Business Management",Background description for student 791,PhD
+STU0792,Student 792,Law,2.94,USA,"Business Management, Education Technology, Environmental Conservation",Background description for student 792,PhD
+STU0793,Student 793,Education,3.3,Brazil,"Medical Research, Environmental Conservation, Business Management",Background description for student 793,Masters
+STU0794,Student 794,Medicine,3.25,Australia,"AI, Data Analysis, Business Management",Background description for student 794,Masters
+STU0795,Student 795,Medicine,3.58,Brazil,"Machine Learning, Business Management, Medical Research",Background description for student 795,Masters
+STU0796,Student 796,Environmental Science,3.32,UAE,"Web Development, Environmental Conservation, Medical Research",Background description for student 796,Masters
+STU0797,Student 797,Environmental Science,3.12,UAE,"Creative Arts, Data Analysis, Web Development",Background description for student 797,Undergraduate
+STU0798,Student 798,Medicine,2.62,Japan,"Legal Studies, Business Management, AI",Background description for student 798,Undergraduate
+STU0799,Student 799,Computer Science,3.46,Australia,"Environmental Conservation, Data Analysis, Creative Arts",Background description for student 799,PhD
+STU0800,Student 800,Arts,2.84,USA,"Machine Learning, Environmental Conservation, AI",Background description for student 800,Undergraduate
+STU0801,Student 801,Education,2.43,Brazil,"Web Development, Creative Arts, Data Analysis",Background description for student 801,PhD
+STU0802,Student 802,Business,2.77,UAE,"Data Analysis, Legal Studies, Web Development",Background description for student 802,Masters
+STU0803,Student 803,Computer Science,2.7,UAE,"Data Analysis, Business Management, AI",Background description for student 803,Undergraduate
+STU0804,Student 804,Engineering,3.29,Canada,"Legal Studies, Business Management, Environmental Conservation",Background description for student 804,Undergraduate
+STU0805,Student 805,Arts,3.17,Germany,"Web Development, AI, Education Technology",Background description for student 805,Undergraduate
+STU0806,Student 806,Arts,3.33,Canada,"Legal Studies, Business Management, Creative Arts",Background description for student 806,Masters
+STU0807,Student 807,Education,3.57,UAE,"Web Development, Education Technology, Creative Arts",Background description for student 807,PhD
+STU0808,Student 808,Computer Science,3.52,UK,"Machine Learning, AI, Medical Research",Background description for student 808,Masters
+STU0809,Student 809,Environmental Science,3.97,Japan,"Creative Arts, Education Technology, Environmental Conservation",Background description for student 809,Undergraduate
+STU0810,Student 810,Arts,2.62,Canada,"AI, Medical Research, Legal Studies",Background description for student 810,Undergraduate
+STU0811,Student 811,Data Science,3.08,UK,"Legal Studies, Education Technology, Business Management",Background description for student 811,Masters
+STU0812,Student 812,Environmental Science,2.68,Australia,"Education Technology, Data Analysis, Environmental Conservation",Background description for student 812,Masters
+STU0813,Student 813,Medicine,2.39,Canada,"Machine Learning, Education Technology, Data Analysis",Background description for student 813,PhD
+STU0814,Student 814,Engineering,3.69,South Africa,"Business Management, Creative Arts, Web Development",Background description for student 814,Masters
+STU0815,Student 815,Education,2.88,India,"Environmental Conservation, Creative Arts, Machine Learning",Background description for student 815,PhD
+STU0816,Student 816,Business,3.02,UAE,"Environmental Conservation, AI, Medical Research",Background description for student 816,Masters
+STU0817,Student 817,Engineering,1.96,South Africa,"Web Development, Medical Research, Business Management",Background description for student 817,PhD
+STU0818,Student 818,Data Science,2.61,Australia,"Creative Arts, Environmental Conservation, Machine Learning",Background description for student 818,PhD
+STU0819,Student 819,Environmental Science,3.23,Brazil,"Legal Studies, Web Development, Machine Learning",Background description for student 819,PhD
+STU0820,Student 820,Medicine,2.67,UAE,"Creative Arts, Machine Learning, Legal Studies",Background description for student 820,Masters
+STU0821,Student 821,Engineering,2.85,India,"Education Technology, Business Management, Environmental Conservation",Background description for student 821,PhD
+STU0822,Student 822,Arts,4.04,UK,"Education Technology, Business Management, AI",Background description for student 822,PhD
+STU0823,Student 823,Environmental Science,3.34,South Africa,"AI, Machine Learning, Legal Studies",Background description for student 823,Undergraduate
+STU0824,Student 824,Data Science,4.57,Australia,"Web Development, Business Management, Environmental Conservation",Background description for student 824,Undergraduate
+STU0825,Student 825,Data Science,3.21,Brazil,"Machine Learning, Web Development, Environmental Conservation",Background description for student 825,Undergraduate
+STU0826,Student 826,Arts,3.23,South Africa,"Legal Studies, Environmental Conservation, Machine Learning",Background description for student 826,Undergraduate
+STU0827,Student 827,Arts,4.01,Brazil,"Medical Research, Machine Learning, Creative Arts",Background description for student 827,PhD
+STU0828,Student 828,Arts,3.13,UAE,"Web Development, Environmental Conservation, Business Management",Background description for student 828,Masters
+STU0829,Student 829,Data Science,4.34,Canada,"Creative Arts, Education Technology, Environmental Conservation",Background description for student 829,Undergraduate
+STU0830,Student 830,Law,3.27,Brazil,"Machine Learning, Education Technology, AI",Background description for student 830,Masters
+STU0831,Student 831,Law,2.99,Germany,"Web Development, AI, Environmental Conservation",Background description for student 831,PhD
+STU0832,Student 832,Data Science,3.12,Canada,"Education Technology, Data Analysis, Business Management",Background description for student 832,PhD
+STU0833,Student 833,Medicine,4.06,Canada,"Machine Learning, Legal Studies, Business Management",Background description for student 833,Masters
+STU0834,Student 834,Computer Science,2.31,UAE,"Machine Learning, Data Analysis, Legal Studies",Background description for student 834,Masters
+STU0835,Student 835,Computer Science,3.46,Germany,"Education Technology, Business Management, Medical Research",Background description for student 835,Masters
+STU0836,Student 836,Arts,3.69,South Africa,"AI, Medical Research, Machine Learning",Background description for student 836,Masters
+STU0837,Student 837,Data Science,3.81,UK,"Data Analysis, Machine Learning, AI",Background description for student 837,Undergraduate
+STU0838,Student 838,Law,2.28,Brazil,"Data Analysis, Education Technology, Web Development",Background description for student 838,PhD
+STU0839,Student 839,Medicine,3.5,Australia,"Business Management, Data Analysis, Web Development",Background description for student 839,Undergraduate
+STU0840,Student 840,Engineering,2.46,Canada,"AI, Education Technology, Medical Research",Background description for student 840,PhD
+STU0841,Student 841,Arts,3.23,USA,"Data Analysis, Web Development, Medical Research",Background description for student 841,PhD
+STU0842,Student 842,Engineering,2.97,South Africa,"Education Technology, Machine Learning, Web Development",Background description for student 842,PhD
+STU0843,Student 843,Computer Science,3.25,Canada,"AI, Legal Studies, Web Development",Background description for student 843,PhD
+STU0844,Student 844,Medicine,3.5,Canada,"Medical Research, Environmental Conservation, Legal Studies",Background description for student 844,PhD
+STU0845,Student 845,Medicine,2.04,Canada,"Data Analysis, AI, Legal Studies",Background description for student 845,Undergraduate
+STU0846,Student 846,Data Science,2.34,South Africa,"Machine Learning, Business Management, Environmental Conservation",Background description for student 846,PhD
+STU0847,Student 847,Business,3.18,Japan,"Business Management, Education Technology, Data Analysis",Background description for student 847,Masters
+STU0848,Student 848,Environmental Science,4.04,Canada,"Legal Studies, AI, Data Analysis",Background description for student 848,Masters
+STU0849,Student 849,Environmental Science,3.17,Australia,"Medical Research, Business Management, Education Technology",Background description for student 849,Undergraduate
+STU0850,Student 850,Education,3.32,India,"Creative Arts, Environmental Conservation, Machine Learning",Background description for student 850,Masters
+STU0851,Student 851,Education,4.06,India,"Medical Research, Machine Learning, Legal Studies",Background description for student 851,PhD
+STU0852,Student 852,Data Science,4.02,South Africa,"Medical Research, Data Analysis, Creative Arts",Background description for student 852,Masters
+STU0853,Student 853,Engineering,4.19,Brazil,"Legal Studies, Environmental Conservation, Creative Arts",Background description for student 853,Masters
+STU0854,Student 854,Environmental Science,2.93,Australia,"Education Technology, Environmental Conservation, Web Development",Background description for student 854,PhD
+STU0855,Student 855,Business,3.04,Australia,"Legal Studies, AI, Business Management",Background description for student 855,Masters
+STU0856,Student 856,Arts,2.49,Australia,"Environmental Conservation, Business Management, Legal Studies",Background description for student 856,Masters
+STU0857,Student 857,Education,2.79,Brazil,"Data Analysis, Environmental Conservation, Creative Arts",Background description for student 857,Masters
+STU0858,Student 858,Education,3.68,India,"Business Management, Data Analysis, Web Development",Background description for student 858,Masters
+STU0859,Student 859,Data Science,3.46,UK,"Education Technology, Data Analysis, Environmental Conservation",Background description for student 859,PhD
+STU0860,Student 860,Law,3.9,Germany,"Medical Research, AI, Legal Studies",Background description for student 860,Undergraduate
+STU0861,Student 861,Computer Science,2.8,Brazil,"AI, Business Management, Machine Learning",Background description for student 861,PhD
+STU0862,Student 862,Business,3.69,Brazil,"Creative Arts, Environmental Conservation, Education Technology",Background description for student 862,Masters
+STU0863,Student 863,Environmental Science,4.12,Germany,"Data Analysis, Education Technology, Web Development",Background description for student 863,Undergraduate
+STU0864,Student 864,Education,3.05,UAE,"AI, Business Management, Medical Research",Background description for student 864,Undergraduate
+STU0865,Student 865,Medicine,3.74,Canada,"Creative Arts, AI, Education Technology",Background description for student 865,PhD
+STU0866,Student 866,Medicine,3.62,Japan,"Creative Arts, AI, Education Technology",Background description for student 866,Undergraduate
+STU0867,Student 867,Arts,3.04,UAE,"Education Technology, Data Analysis, Machine Learning",Background description for student 867,PhD
+STU0868,Student 868,Engineering,3.54,South Africa,"Medical Research, Web Development, Creative Arts",Background description for student 868,Masters
+STU0869,Student 869,Law,3.54,South Africa,"Machine Learning, Legal Studies, AI",Background description for student 869,Undergraduate
+STU0870,Student 870,Medicine,3.14,Japan,"Business Management, Environmental Conservation, Creative Arts",Background description for student 870,Undergraduate
+STU0871,Student 871,Data Science,3.76,Germany,"Machine Learning, Legal Studies, Creative Arts",Background description for student 871,PhD
+STU0872,Student 872,Computer Science,2.71,Brazil,"AI, Legal Studies, Machine Learning",Background description for student 872,Masters
+STU0873,Student 873,Data Science,3.63,India,"Environmental Conservation, Medical Research, Creative Arts",Background description for student 873,PhD
+STU0874,Student 874,Education,2.83,USA,"Creative Arts, Data Analysis, Education Technology",Background description for student 874,PhD
+STU0875,Student 875,Data Science,2.62,Japan,"Legal Studies, Web Development, Creative Arts",Background description for student 875,Undergraduate
+STU0876,Student 876,Data Science,3.29,Canada,"Creative Arts, Machine Learning, AI",Background description for student 876,PhD
+STU0877,Student 877,Arts,4.11,Canada,"Environmental Conservation, AI, Machine Learning",Background description for student 877,PhD
+STU0878,Student 878,Arts,3.41,India,"Creative Arts, Business Management, Education Technology",Background description for student 878,Undergraduate
+STU0879,Student 879,Computer Science,3.06,South Africa,"Legal Studies, Medical Research, AI",Background description for student 879,PhD
+STU0880,Student 880,Computer Science,2.65,Japan,"Web Development, Environmental Conservation, Education Technology",Background description for student 880,PhD
+STU0881,Student 881,Engineering,3.39,Australia,"Creative Arts, Machine Learning, Legal Studies",Background description for student 881,Masters
+STU0882,Student 882,Environmental Science,3.82,India,"Web Development, Data Analysis, Business Management",Background description for student 882,Undergraduate
+STU0883,Student 883,Environmental Science,3.08,Japan,"Legal Studies, Medical Research, Machine Learning",Background description for student 883,Masters
+STU0884,Student 884,Environmental Science,2.34,Canada,"AI, Data Analysis, Education Technology",Background description for student 884,Masters
+STU0885,Student 885,Business,2.02,Germany,"AI, Education Technology, Data Analysis",Background description for student 885,PhD
+STU0886,Student 886,Medicine,3.29,Canada,"AI, Medical Research, Education Technology",Background description for student 886,PhD
+STU0887,Student 887,Medicine,2.5,India,"AI, Machine Learning, Education Technology",Background description for student 887,Undergraduate
+STU0888,Student 888,Engineering,3.69,USA,"Medical Research, Business Management, Web Development",Background description for student 888,Masters
+STU0889,Student 889,Law,2.67,Japan,"Machine Learning, Web Development, Legal Studies",Background description for student 889,Masters
+STU0890,Student 890,Medicine,3.55,Brazil,"Data Analysis, Machine Learning, Education Technology",Background description for student 890,Masters
+STU0891,Student 891,Environmental Science,2.76,USA,"Legal Studies, Environmental Conservation, Education Technology",Background description for student 891,Undergraduate
+STU0892,Student 892,Arts,2.95,Brazil,"Legal Studies, Education Technology, Web Development",Background description for student 892,Undergraduate
+STU0893,Student 893,Environmental Science,2.76,India,"Medical Research, AI, Data Analysis",Background description for student 893,Undergraduate
+STU0894,Student 894,Computer Science,3.26,UK,"Web Development, AI, Medical Research",Background description for student 894,PhD
+STU0895,Student 895,Business,3.76,UK,"Environmental Conservation, Creative Arts, Data Analysis",Background description for student 895,PhD
+STU0896,Student 896,Data Science,3.08,Canada,"Machine Learning, Web Development, Education Technology",Background description for student 896,PhD
+STU0897,Student 897,Education,3.18,USA,"Environmental Conservation, Creative Arts, Education Technology",Background description for student 897,PhD
+STU0898,Student 898,Medicine,3.45,Brazil,"Data Analysis, AI, Web Development",Background description for student 898,Masters
+STU0899,Student 899,Education,2.43,Japan,"Legal Studies, Education Technology, Machine Learning",Background description for student 899,Masters
+STU0900,Student 900,Arts,3.8,Japan,"Environmental Conservation, Legal Studies, Creative Arts",Background description for student 900,Masters
+STU0901,Student 901,Environmental Science,2.59,Germany,"Business Management, Medical Research, Web Development",Background description for student 901,PhD
+STU0902,Student 902,Environmental Science,2.76,Germany,"Business Management, Creative Arts, Environmental Conservation",Background description for student 902,PhD
+STU0903,Student 903,Law,3.45,Japan,"Data Analysis, Creative Arts, Medical Research",Background description for student 903,PhD
+STU0904,Student 904,Law,3.08,UK,"Legal Studies, Business Management, Medical Research",Background description for student 904,PhD
+STU0905,Student 905,Environmental Science,2.97,UAE,"Creative Arts, AI, Business Management",Background description for student 905,Masters
+STU0906,Student 906,Medicine,2.38,South Africa,"Medical Research, Legal Studies, Machine Learning",Background description for student 906,PhD
+STU0907,Student 907,Medicine,2.83,Germany,"Environmental Conservation, AI, Business Management",Background description for student 907,Masters
+STU0908,Student 908,Education,3.28,Japan,"Web Development, Data Analysis, Business Management",Background description for student 908,PhD
+STU0909,Student 909,Computer Science,2.92,Australia,"Legal Studies, Medical Research, Education Technology",Background description for student 909,Masters
+STU0910,Student 910,Education,3.44,South Africa,"Web Development, Environmental Conservation, AI",Background description for student 910,PhD
+STU0911,Student 911,Law,4.48,UK,"Machine Learning, AI, Medical Research",Background description for student 911,Masters
+STU0912,Student 912,Law,3.22,Canada,"Business Management, Environmental Conservation, Creative Arts",Background description for student 912,PhD
+STU0913,Student 913,Environmental Science,2.88,Canada,"Data Analysis, Medical Research, Creative Arts",Background description for student 913,PhD
+STU0914,Student 914,Computer Science,3.34,South Africa,"Business Management, Medical Research, Education Technology",Background description for student 914,Undergraduate
+STU0915,Student 915,Business,3.28,Brazil,"Machine Learning, Creative Arts, Medical Research",Background description for student 915,Undergraduate
+STU0916,Student 916,Environmental Science,4.07,USA,"Legal Studies, Medical Research, Web Development",Background description for student 916,Undergraduate
+STU0917,Student 917,Education,3.31,Japan,"Creative Arts, Web Development, Environmental Conservation",Background description for student 917,Masters
+STU0918,Student 918,Arts,3.45,Brazil,"Medical Research, Business Management, Environmental Conservation",Background description for student 918,PhD
+STU0919,Student 919,Engineering,2.92,India,"Environmental Conservation, Data Analysis, AI",Background description for student 919,Undergraduate
+STU0920,Student 920,Arts,2.73,India,"Data Analysis, Machine Learning, Business Management",Background description for student 920,Masters
+STU0921,Student 921,Business,3.41,Brazil,"Medical Research, Education Technology, Business Management",Background description for student 921,PhD
+STU0922,Student 922,Law,3.84,India,"Machine Learning, Creative Arts, Business Management",Background description for student 922,PhD
+STU0923,Student 923,Education,3.83,UAE,"Business Management, Medical Research, Environmental Conservation",Background description for student 923,Masters
+STU0924,Student 924,Business,3.24,Japan,"AI, Medical Research, Web Development",Background description for student 924,PhD
+STU0925,Student 925,Data Science,2.84,Brazil,"AI, Medical Research, Environmental Conservation",Background description for student 925,PhD
+STU0926,Student 926,Data Science,3.77,UAE,"Creative Arts, Data Analysis, Environmental Conservation",Background description for student 926,PhD
+STU0927,Student 927,Data Science,3.6,Canada,"Creative Arts, Medical Research, Data Analysis",Background description for student 927,Undergraduate
+STU0928,Student 928,Business,2.97,Brazil,"Machine Learning, Education Technology, Environmental Conservation",Background description for student 928,Undergraduate
+STU0929,Student 929,Medicine,4.11,UK,"Legal Studies, Medical Research, Machine Learning",Background description for student 929,Undergraduate
+STU0930,Student 930,Medicine,3.63,India,"Creative Arts, Data Analysis, Business Management",Background description for student 930,Undergraduate
+STU0931,Student 931,Business,4.35,USA,"Medical Research, Education Technology, Environmental Conservation",Background description for student 931,Undergraduate
+STU0932,Student 932,Environmental Science,3.61,India,"Web Development, Medical Research, AI",Background description for student 932,Masters
+STU0933,Student 933,Environmental Science,3.88,USA,"Data Analysis, Education Technology, AI",Background description for student 933,PhD
+STU0934,Student 934,Arts,3.44,South Africa,"Education Technology, Machine Learning, Environmental Conservation",Background description for student 934,Masters
+STU0935,Student 935,Computer Science,2.98,UK,"Environmental Conservation, Web Development, Legal Studies",Background description for student 935,Masters
+STU0936,Student 936,Data Science,3.95,Canada,"Environmental Conservation, Medical Research, AI",Background description for student 936,Masters
+STU0937,Student 937,Medicine,3.07,USA,"Medical Research, Creative Arts, Legal Studies",Background description for student 937,PhD
+STU0938,Student 938,Law,3.63,South Africa,"Web Development, Creative Arts, Legal Studies",Background description for student 938,Masters
+STU0939,Student 939,Environmental Science,3.23,UAE,"Data Analysis, Education Technology, Legal Studies",Background description for student 939,PhD
+STU0940,Student 940,Law,2.97,UAE,"Data Analysis, AI, Education Technology",Background description for student 940,Undergraduate
+STU0941,Student 941,Computer Science,1.74,UK,"Web Development, AI, Legal Studies",Background description for student 941,Masters
+STU0942,Student 942,Environmental Science,3.74,Japan,"Creative Arts, Medical Research, Education Technology",Background description for student 942,Undergraduate
+STU0943,Student 943,Engineering,3.07,India,"Business Management, AI, Legal Studies",Background description for student 943,Masters
+STU0944,Student 944,Law,3.4,South Africa,"Environmental Conservation, Legal Studies, AI",Background description for student 944,Masters
+STU0945,Student 945,Education,3.36,Germany,"Legal Studies, Creative Arts, AI",Background description for student 945,PhD
+STU0946,Student 946,Business,3.14,UAE,"AI, Business Management, Medical Research",Background description for student 946,Masters
+STU0947,Student 947,Business,2.4,USA,"Legal Studies, Machine Learning, Data Analysis",Background description for student 947,Masters
+STU0948,Student 948,Medicine,2.53,Japan,"AI, Legal Studies, Machine Learning",Background description for student 948,Masters
+STU0949,Student 949,Arts,3.45,UK,"Web Development, Data Analysis, Business Management",Background description for student 949,PhD
+STU0950,Student 950,Business,2.65,Australia,"Machine Learning, Environmental Conservation, Data Analysis",Background description for student 950,PhD
+STU0951,Student 951,Environmental Science,3.65,South Africa,"Legal Studies, Machine Learning, Environmental Conservation",Background description for student 951,PhD
+STU0952,Student 952,Law,3.38,India,"Education Technology, Machine Learning, AI",Background description for student 952,PhD
+STU0953,Student 953,Computer Science,3.02,USA,"AI, Legal Studies, Business Management",Background description for student 953,Undergraduate
+STU0954,Student 954,Arts,2.88,Japan,"Education Technology, AI, Legal Studies",Background description for student 954,Undergraduate
+STU0955,Student 955,Engineering,3.54,Australia,"Education Technology, Web Development, Data Analysis",Background description for student 955,Masters
+STU0956,Student 956,Environmental Science,3.11,Brazil,"Creative Arts, AI, Environmental Conservation",Background description for student 956,PhD
+STU0957,Student 957,Education,3.62,Canada,"Machine Learning, Education Technology, Data Analysis",Background description for student 957,PhD
+STU0958,Student 958,Medicine,2.82,Japan,"Creative Arts, Environmental Conservation, Education Technology",Background description for student 958,Masters
+STU0959,Student 959,Data Science,2.25,Australia,"Data Analysis, Environmental Conservation, Business Management",Background description for student 959,PhD
+STU0960,Student 960,Data Science,4.01,Germany,"Creative Arts, Web Development, Medical Research",Background description for student 960,Masters
+STU0961,Student 961,Business,3.41,USA,"Creative Arts, Legal Studies, Web Development",Background description for student 961,Masters
+STU0962,Student 962,Medicine,3.37,USA,"Education Technology, Environmental Conservation, Legal Studies",Background description for student 962,Masters
+STU0963,Student 963,Law,3.6,USA,"Web Development, Data Analysis, Creative Arts",Background description for student 963,Masters
+STU0964,Student 964,Business,3.77,Brazil,"Education Technology, Machine Learning, Web Development",Background description for student 964,PhD
+STU0965,Student 965,Environmental Science,2.75,South Africa,"Environmental Conservation, Machine Learning, Creative Arts",Background description for student 965,PhD
+STU0966,Student 966,Medicine,3.45,Canada,"Legal Studies, Business Management, Creative Arts",Background description for student 966,Undergraduate
+STU0967,Student 967,Education,3.07,Japan,"Business Management, AI, Education Technology",Background description for student 967,Undergraduate
+STU0968,Student 968,Environmental Science,4.11,Canada,"AI, Creative Arts, Data Analysis",Background description for student 968,PhD
+STU0969,Student 969,Business,3.17,Brazil,"Creative Arts, Legal Studies, AI",Background description for student 969,Undergraduate
+STU0970,Student 970,Computer Science,2.34,USA,"Machine Learning, Business Management, Medical Research",Background description for student 970,PhD
+STU0971,Student 971,Data Science,2.2,Germany,"Web Development, Legal Studies, Machine Learning",Background description for student 971,Undergraduate
+STU0972,Student 972,Data Science,2.59,Germany,"Education Technology, Data Analysis, Machine Learning",Background description for student 972,PhD
+STU0973,Student 973,Data Science,2.17,Germany,"Business Management, Web Development, Education Technology",Background description for student 973,PhD
+STU0974,Student 974,Education,2.58,UK,"Medical Research, AI, Business Management",Background description for student 974,Undergraduate
+STU0975,Student 975,Data Science,2.85,Brazil,"AI, Machine Learning, Medical Research",Background description for student 975,Masters
+STU0976,Student 976,Law,3.84,UAE,"Web Development, Machine Learning, Data Analysis",Background description for student 976,PhD
+STU0977,Student 977,Business,3.65,Australia,"Education Technology, Environmental Conservation, Machine Learning",Background description for student 977,Masters
+STU0978,Student 978,Education,3.12,India,"Medical Research, Business Management, Environmental Conservation",Background description for student 978,Undergraduate
+STU0979,Student 979,Arts,3.68,Australia,"Web Development, Environmental Conservation, Education Technology",Background description for student 979,Undergraduate
+STU0980,Student 980,Computer Science,2.75,Canada,"Medical Research, Legal Studies, Environmental Conservation",Background description for student 980,Masters
+STU0981,Student 981,Medicine,3.52,UAE,"Education Technology, Legal Studies, Environmental Conservation",Background description for student 981,Undergraduate
+STU0982,Student 982,Engineering,3.12,UAE,"Web Development, Medical Research, AI",Background description for student 982,PhD
+STU0983,Student 983,Medicine,3.91,Brazil,"Environmental Conservation, Machine Learning, Business Management",Background description for student 983,Masters
+STU0984,Student 984,Data Science,3.76,Canada,"Medical Research, Data Analysis, Machine Learning",Background description for student 984,Masters
+STU0985,Student 985,Business,3.66,Japan,"Web Development, Medical Research, Business Management",Background description for student 985,Masters
+STU0986,Student 986,Arts,2.9,Japan,"Legal Studies, Education Technology, Web Development",Background description for student 986,Masters
+STU0987,Student 987,Law,3.4,Japan,"Web Development, Environmental Conservation, Legal Studies",Background description for student 987,PhD
+STU0988,Student 988,Data Science,3.01,India,"Environmental Conservation, Education Technology, Data Analysis",Background description for student 988,PhD
+STU0989,Student 989,Medicine,2.91,USA,"Machine Learning, Medical Research, Legal Studies",Background description for student 989,Undergraduate
+STU0990,Student 990,Medicine,2.96,South Africa,"Medical Research, Creative Arts, Machine Learning",Background description for student 990,Masters
+STU0991,Student 991,Business,2.88,Japan,"Medical Research, Business Management, Education Technology",Background description for student 991,PhD
+STU0992,Student 992,Medicine,3.17,Brazil,"Business Management, Environmental Conservation, Education Technology",Background description for student 992,Undergraduate
+STU0993,Student 993,Environmental Science,3.9,Canada,"Education Technology, Creative Arts, Environmental Conservation",Background description for student 993,Undergraduate
+STU0994,Student 994,Law,3.43,South Africa,"AI, Medical Research, Education Technology",Background description for student 994,Masters
+STU0995,Student 995,Law,3.14,Australia,"Environmental Conservation, Data Analysis, Creative Arts",Background description for student 995,Undergraduate
+STU0996,Student 996,Data Science,2.75,USA,"Environmental Conservation, Business Management, Creative Arts",Background description for student 996,Undergraduate
+STU0997,Student 997,Data Science,3.16,South Africa,"Environmental Conservation, Data Analysis, Education Technology",Background description for student 997,Undergraduate
+STU0998,Student 998,Environmental Science,3.11,Australia,"AI, Legal Studies, Creative Arts",Background description for student 998,Masters
+STU0999,Student 999,Engineering,2.97,Australia,"AI, Creative Arts, Medical Research",Background description for student 999,PhD
+STU1000,Student 1000,Law,3.83,Canada,"Machine Learning, Business Management, AI",Background description for student 1000,PhD
