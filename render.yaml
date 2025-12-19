@@ -2,8 +2,9 @@ services:
   - type: web
     name: scholarship-recommender
     env: python
-    buildCommand: pip install -r requirements_simple.txt
+    buildCommand: pip install --only-binary=:all: -r requirements_simple.txt
     startCommand: gunicorn web_app.app:app
+    pythonVersion: "3.11.9"
     envVars:
       - key: PYTHON_VERSION
-        value: 3.11.9
+        value: "3.11.9"
